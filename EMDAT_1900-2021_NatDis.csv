@@ -213,7 +213,6 @@
 1952-0026-DZA,1952,Flood,Algeria,DZA,Northern Africa,Africa,,Km2,,,,,25,10.41035363
 1952-0001-FJI,1952,Storm,Fiji,FJI,Melanesia,Oceania,Near Suva,Kph,,,,,23,10.41035363
 1952-0005-GBR,1952,Flood,United Kingdom of Great Britain and Northern Ireland (the),GBR,Northern Europe,Europe,Lynmouth,Km2,,,,,34,10.41035363
-1952-0012-GBR,1952,Fog,United Kingdom of Great Britain and Northern Ireland (the),GBR,Northern Europe,Europe,London,,,,,,4000,10.41035363
 1952-0010-HTI,1952,Earthquake,Haiti,HTI,Caribbean,Americas,Anse-a-Veau,Richter,18.3,73.2,,,6,10.41035363
 1952-0011-IND,1952,Storm,India,IND,Southern Asia,Asia,"Tanjore, Tiruchi",Kph,,,,,400,10.41035363
 1952-0025-IND,1952,Storm,India,IND,Southern Asia,Asia,,Kph,,,,,350,10.41035363
@@ -12971,7 +12970,6 @@
 2013-0347-ROU,2013,Flood,Romania,ROU,Eastern Europe,Europe,"Galati, Braila, Tulcea provinces",Km2,,27.55,,,9,91.12079403
 2013-0278-RUS,2013,Flood,Russian Federation (the),RUS,Eastern Europe,Europe,"Zeya district (Amurskaya Oblast province) ; Yevreyskaya A. Oblast, Khabarovskiy Kray province",Km2,50.0043,128.42,,"Amur, Zeya rivers",,91.12079403
 2013-0303-RUS,2013,Flood,Russian Federation (the),RUS,Eastern Europe,Europe,Novomikhaylovskiy city (Krasnodarskiy Kray province),Km2,44.3289,39.25,,,4,91.12079403
-2013-0060-RUS,2013,Impact,Russian Federation (the),RUS,Eastern Europe,Europe,Chelyabinsk (Ural Region),,,,,,,91.12079403
 2013-0445-SAU,2013,Flood,Saudi Arabia,SAU,Western Asia,Asia,"Riyad, Northern Frontier provinces",Km2,27.41,44.81,,,15,91.12079403
 2013-0280-SDN,2013,Flood,Sudan (the),SDN,Northern Africa,Africa,"Khartoum, Southern Darfur, Northern Darfur, Nile, Blue Nile, Southern Kordofan, Al Jazeera, Sennar, White Nile, Kassala, Northern Kordofan, Gadaref, Northern; Red Sea provinces",Km2,13.6883,28.99,,,76,91.12079403
 2013-0368-SEN,2013,Flood,Senegal,SEN,Western Africa,Africa,"Fatick, Kaolack, Thies, Dakar provinces",Km2,,,,,8,91.12079403
@@ -13322,7 +13320,6 @@
 2014-9429-MYS,2014,Drought,Malaysia,MYS,South-Eastern Asia,Asia,"Kedah, Perak, Perlis, Pulau Pinang, Selangor provinces",Km2,,,,,,92.59898057
 2014-0515-NER,2014,Epidemic,Niger (the),NER,Western Africa,Africa,Chetimari (Diffa region),Vaccinated,,,,,8,92.59898057
 2014-0573-NER,2014,Epidemic,Niger (the),NER,Western Africa,Africa,"Niamey I, Niamey II, Niamey III (Niamey and Doutchi district); Gaya (Dosso district);",Vaccinated,,,,,145,92.59898057
-2014-0461-NER,2014,Animal accident,Niger (the),NER,Western Africa,Africa,Near Niamey,,,,,,12,92.59898057
 2014-0211-NGA,2014,Flood,Nigeria,NGA,Western Africa,Africa,"Ibadan North, Ibadan North-East, Ibadan North-West, Ibadan South-East, Ibadan South-West districts (Oyo province)",Km2,,,,Olodo river,15,92.59898057
 2014-0439-NGA,2014,Epidemic,Nigeria,NGA,Western Africa,Africa,"Bauchi state, Bauhci Metropolis, Tafawa alewa Local Government Area (LGA)",Vaccinated,,,,,755,92.59898057
 2014-9580-NIC,2014,Drought,Nicaragua,NIC,Central America,Americas,"Atlantico Norte, Atlantico Sur, Boaco, Carazo, Chinandega, Chontales, Esteli, Granada, Jinotega, Leon, Madriz, Managua, Masaya, Matagalpa, Nueva Segovia, Rio San Juan, Rivas provinces",Km2,,,,,,92.59898057
@@ -15485,7 +15482,6 @@
 2020-0207-CUB,2020,Storm,Cuba,CUB,Caribbean,Americas,"Sancti Spiritus, Villa Clara, Cienfuegos, Camaguey, Ciego de Avila provinces (central Cuba)",Kph,,,,,,
 2020-0373-DOM,2020,Storm,Dominican Republic (the),DOM,Caribbean,Americas,"Hato Mayor, Samana, El Seibo, Duarte",Kph,,,,"Paña-Paña, Magua, Cañada de los Polanco",,
 2020-0524-IND,2020,Storm,India,IND,Southern Asia,Asia,Tamil Nadu and Puducherry,Kph,,,,,14,
-2021-0072-IND,2021,Glacial lake outburst,India,IND,Southern Asia,Asia,Uttarakhand state,,,,,,234,
 2020-0411-KHM,2020,Storm,Cambodia,KHM,South-Eastern Asia,Asia,"Pursat, Battambang, Pailin, Kampong Speu, Kampong Chhnang, Banteay Meanchey, Kampong Thom, Phnom Penh, Kandal, Sway Rieng, Stung Treng, Takao, Siem Reap, Preah Videar, Oddar Meanchey Provinces.",Kph,,,,,38,
 2020-0403-KOR,2020,Storm,Korea (the Republic of),KOR,Eastern Asia,Asia,"Gangwon, Jeju, South Gyeongsang, Busan",Kph,,,,,1,
 2020-0411-LAO,2020,Storm,Lao People's Democratic Republic (the),LAO,South-Eastern Asia,Asia,"Savannakhet, Trang, Satun, Songkhla, Nakhon Nayok, Sa Kaeo, Salawan, Sekong provinces",Kph,,,,,2,
