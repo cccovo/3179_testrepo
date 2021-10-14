@@ -4,10 +4,8 @@
 1902-0012-GTM,1902,Earthquake,Guatemala,GTM,Central America,Americas,"Quezaltenango, San Marcos",Richter,14,-91,20:20,,2000,3.391844543
 1902-0003-GTM,1902,Volcanic activity,Guatemala,GTM,Central America,Americas,,,,,,,1000,3.391844543
 1902-0010-GTM,1902,Volcanic activity,Guatemala,GTM,Central America,Americas,,,,,,,6000,3.391844543
-1903-0006-CAN,1903,Mass movement (dry),Canada,CAN,Northern America,Americas,"Frank, Alberta",,,,,,76,3.522300102
 1903-0012-COM,1903,Volcanic activity,Comoros (the),COM,Eastern Africa,Africa,,,,,,,17,3.522300102
 1904-0003-BGD,1904,Storm,Bangladesh,BGD,Southern Asia,Asia,Chittagong,Kph,,,,,,3.522300102
-1905-0005-CAN,1905,Mass movement (dry),Canada,CAN,Northern America,Americas,"Spence's Bridge, British Columbia",,,,,,18,3.522300102
 1905-0003-IND,1905,Earthquake,India,IND,Southern Asia,Asia,Kangra,Richter,32.04,76.16,6:20,,20000,3.522300102
 1906-0014-CHL,1906,Earthquake,Chile,CHL,South America,Americas,Valparaiso,Richter,33.05,71.4,19:57,,20000,3.522300102
 1906-0002-COL,1906,Earthquake,Colombia,COL,South America,Americas,Tumako,Richter,1.51 N,78.46 W,,,400,3.522300102
@@ -16,7 +14,6 @@
 1906-0015-HKG,1906,Storm,Hong Kong,HKG,Eastern Asia,Asia,,Kph,,,,,10000,3.522300102
 1907-0006-CHN,1907,Earthquake,China,CHN,Eastern Asia,Asia,Tien Shan,Richter,38.5,69.9,9:23,,12000,3.652755661
 1907-0001-IND,1907,Epidemic,India,IND,Southern Asia,Asia,,Vaccinated,,,,,1300000,3.652755661
-1908-0011-CAN,1908,Mass movement (dry),Canada,CAN,Northern America,Americas,"Notre Dame de La Salette, Quebec",,,,,,33,3.522300102
 1909-0010-BGD,1909,Storm,Bangladesh,BGD,Southern Asia,Asia,Bakerganj,Kph,,,,,172,3.522300102
 1909-0013-BGD,1909,Storm,Bangladesh,BGD,Southern Asia,Asia,West Sundarbans,Kph,,,,,,3.522300102
 1909-0001-CHN,1909,Epidemic,China,CHN,Eastern Asia,Asia,,Vaccinated,,,,,1500000,3.522300102
@@ -249,7 +246,6 @@
 1955-0037-AUS,1955,Flood,Australia,AUS,Australia and New Zealand,Oceania,,Km2,,,,,70,10.47300041
 1955-0014-BLZ,1955,Storm,Belize,BLZ,Central America,Americas,Corozal area,Kph,,,,,16,10.47300041
 1955-0011-BRB,1955,Storm,Barbados,BRB,Caribbean,Americas,,Kph,,,,,57,10.47300041
-1955-0031-CAN,1955,Mass movement (dry),Canada,CAN,Northern America,Americas,Nicolet (Quebec),,,,,,3,10.47300041
 1955-0038-CHN,1955,Earthquake,China,CHN,Eastern Asia,Asia,"Kangting, Sikang (Sichuan province)",Richter,30,101.8,8:29,,39,10.47300041
 1955-0020-EGY,1955,Earthquake,Egypt,EGY,Northern Africa,Africa,Near Cairo,Richter,32.2,29.6,8:09,,20,10.47300041
 1955-0040-IDN,1955,Landslide,Indonesia,IDN,South-Eastern Asia,Asia,,,,,,,405,10.47300041
@@ -577,7 +573,6 @@
 1971-0017-BRA,1971,Flood,Brazil,BRA,South America,Americas,Rio de Janeiro,Km2,,,,,130,15.83825463
 1971-0027-BRA,1971,Flood,Brazil,BRA,South America,Americas,Salvador,Km2,,,,,109,15.83825463
 1971-0118-CAN,1971,Storm,Canada,CAN,Northern America,Americas,Montreal (Quebec),Kph,,,,,,15.83825463
-1971-0031-CAN,1971,Mass movement (dry),Canada,CAN,Northern America,Americas,Jean Vianney (Quebec),,,,,,31,15.83825463
 1971-0039-CHL,1971,Storm,Chile,CHL,South America,Americas,,Kph,,,,,,15.83825463
 1971-9001-CMR,1971,Drought,Cameroon,CMR,Middle Africa,Africa,,Km2,,,,,,15.83825463
 1971-0135-COL,1971,Landslide,Colombia,COL,South America,Americas,,,,,,,200,15.83825463
@@ -903,7 +898,6 @@
 1912-0011-JAM,1912,Storm,Jamaica,JAM,Caribbean,Americas,"West Jamaica, Savanna-La-Mer",Kph,,,,,142,3.783211221
 1912-0008-JPN,1912,Storm,Japan,JPN,Eastern Asia,Asia,"Nagoya, Osaka",Kph,,,,,1000,3.783211221
 1912-0010-PHL,1912,Storm,Philippines (the),PHL,South-Eastern Asia,Asia,Cebu,Kph,,,,,,3.783211221
-1913-0002-NER,1913,Insect infestation,Niger (the),NER,Western Africa,Africa,,,,,,,,3.874530112
 1913-0009-PER,1913,Earthquake,Peru,PER,South America,Americas,"Albancay, Amyares, Casaya, Soraya",Richter,-14.2,-72.9,16:33,,150,3.874530112
 1913-0008-ROU,1913,Earthquake,Romania,ROU,Eastern Europe,Europe,Tirnovo,Richter,43.5,25.5,12:33,,,3.874530112
 1913-0005-USA,1913,Storm,United States of America (the),USA,Northern America,Americas,"Ohio, Indiana, Texas",Kph,,,,,732,3.874530112
@@ -964,7 +958,6 @@
 1930-0008-ITA,1930,Earthquake,Italy,ITA,Southern Europe,Europe,"Irpina, Naples",Richter,40.922,15.377,2:08,,1883,6.548869078
 1930-0012-JPN,1930,Earthquake,Japan,JPN,Eastern Asia,Asia,Idu (Honshu),Richter,35.05,139.129,4:02,,259,6.548869078
 1930-0017-MMR,1930,Earthquake,Myanmar,MMR,South-Eastern Asia,Asia,"Nyauglebin, Toungoo, Pyu",Richter,18.233,96.298,1:21,,36,6.548869078
-1930-0002-NER,1930,Insect infestation,Niger (the),NER,Western Africa,Africa,,,,,,,,6.548869078
 1931-0001-NIC,1931,Earthquake,Nicaragua,NIC,Central America,Americas,Managua,Richter,13.2,-85.7,10:16,,1000,5.961819061
 1931-0004-NZL,1931,Earthquake,New Zealand,NZL,Australia and New Zealand,Oceania,"Wairoa, Hastings, Napier Hawke's Bay",Richter,-39.659,176.42,10:47,,256,5.961819061
 1931-0008-PHL,1931,Storm,Philippines (the),PHL,South-Eastern Asia,Asia,West Luzon,Kph,,,,,,5.961819061
@@ -997,7 +990,6 @@
 1936-0008-PHL,1936,Storm,Philippines (the),PHL,South-Eastern Asia,Asia,Luzon,Kph,,,,,517,5.439996824
 1936-0003-USA,1936,Storm,United States of America (the),USA,Northern America,Americas,"Mississippi, Georgia",Kph,,,,,455,5.439996824
 1936-0005-USA,1936,Extreme temperature,United States of America (the),USA,Northern America,Americas,Illinois,°C,,,,,1193,5.439996824
-1937-0010-JAM,1937,Mass movement (dry),Jamaica,JAM,Caribbean,Americas,"Millbank, Portland",,,,,,40,5.635680163
 1937-0008-JAM,1937,Flood,Jamaica,JAM,Caribbean,Americas,Northern areas,Km2,,,,,111,5.635680163
 1937-0007-PHL,1937,Storm,Philippines (the),PHL,South-Eastern Asia,Asia,"Leyte, Mindoro",Kph,,,,,231,5.635680163
 1937-0004-PNG,1937,Volcanic activity,Papua New Guinea,PNG,Melanesia,Oceania,Rabaul,,,,,,506,5.635680163
@@ -1037,7 +1029,6 @@
 1944-0026-JPN,1944,Earthquake,Japan,JPN,Eastern Asia,Asia,"Tonankai, Hondo",Richter,33.682,36.204,13:35,,1223,6.901099088
 1944-0044-ITA,1944,Volcanic activity,Italy,ITA,Southern Europe,Europe,Napoli,,40.821,14.426,,,26,6.901099088
 1944-0008-JAM,1944,Storm,Jamaica,JAM,Caribbean,Americas,Northern Parishes,Kph,,,,,32,6.901099088
-1944-0027-LBY,1944,Insect infestation,Libya,LBY,Northern Africa,Africa,,,,,,,,6.901099088
 1944-0007-PAK,1944,Storm,Pakistan,PAK,Southern Asia,Asia,Karachi,Kph,,,,,,6.901099088
 1944-0003-TUR,1944,Earthquake,Turkey,TUR,Western Asia,Asia,Gerede (West Anatolia),Richter,40.696,32.992,6:22,,3959,6.901099088
 1944-0010-TUR,1944,Earthquake,Turkey,TUR,Western Asia,Asia,Ayvalik Edremit,Richter,39.502,26.596,5:34,,27,6.901099088
@@ -1289,7 +1280,6 @@
 1962-0028-JPN,1962,Flood,Japan,JPN,Eastern Asia,Asia,,Km2,,,,,71,11.83224153
 1962-0035-KOR,1962,Flood,Korea (the Republic of),KOR,Eastern Asia,Asia,,Km2,,,,,290,11.83224153
 1962-0027-MEX,1962,Extreme temperature,Mexico,MEX,Central America,Americas,,°C,,,,,50,11.83224153
-1962-0002-PER,1962,Mass movement (dry),Peru,PER,South America,Americas,Ranrahirca area,,,,,,2000,11.83224153
 1962-0025-PER,1962,Landslide,Peru,PER,South America,Americas,,,,,,,41,11.83224153
 1962-0024-PER,1962,Storm,Peru,PER,South America,Americas,,Kph,,,,,60,11.83224153
 1962-0029-PHL,1962,Storm,Philippines (the),PHL,South-Eastern Asia,Asia,,Kph,,,,,41,11.83224153
@@ -1313,7 +1303,6 @@
 1963-0012-MMR,1963,Storm,Myanmar,MMR,South-Eastern Asia,Asia,Akyab,Kph,,,,,,11.97891616
 1963-0004-MMR,1963,Epidemic,Myanmar,MMR,South-Eastern Asia,Asia,,Vaccinated,,,,,,11.97891616
 1963-0021-MTQ,1963,Storm,Martinique,MTQ,Caribbean,Americas,,Kph,,,,,10,11.97891616
-1963-0018-NPL,1963,Mass movement (dry),Nepal,NPL,Southern Asia,Asia,Trisuli,,,,,,150,11.97891616
 1963-0033-NPL,1963,Epidemic,Nepal,NPL,Southern Asia,Asia,,Vaccinated,,,,,1000,11.97891616
 1963-0017-PHL,1963,Storm,Philippines (the),PHL,South-Eastern Asia,Asia,North Luzon,Kph,,,,,1,11.97891616
 1963-9026-PRY,1963,Drought,Paraguay,PRY,South America,Americas,Chaco region,Km2,,,,,,11.97891616
@@ -1717,7 +1706,6 @@
 1975-0033-PAK,1975,Extreme temperature,Pakistan,PAK,Southern Asia,Asia,,°C,,,,,14,21.05030752
 1975-0077-PHL,1975,Storm,Philippines (the),PHL,South-Eastern Asia,Asia,Mindanao,Kph,,,,,39,21.05030752
 1975-0080-PHL,1975,Flood,Philippines (the),PHL,South-Eastern Asia,Asia,Davao Del Norte,Km2,,,,,,21.05030752
-1975-0081-PHL,1975,Insect infestation,Philippines (the),PHL,South-Eastern Asia,Asia,Davao Del Sur and Norte,,,,,,,21.05030752
 1975-0142-PRI,1975,Storm,Puerto Rico,PRI,Caribbean,Americas,,Kph,,,,,26,21.05030752
 1975-0035-ROU,1975,Flood,Romania,ROU,Eastern Europe,Europe,"South, North-East, along Danube",Km2,,,,,60,21.05030752
 1975-0051-SDN,1975,Flood,Sudan (the),SDN,Northern Africa,Africa,Gash River (Central and Esat region),Km2,,,,,,21.05030752
@@ -1990,7 +1978,6 @@
 1973-0047-VNM,1973,Storm,Viet Nam,VNM,South-Eastern Asia,Asia,Binh Dinh,Kph,,,,,100,17.36698602
 1973-0116-YMN,1973,Flood,Yemen Arab Rep,YMN,Western Asia,Asia,Hugaryah Area (Taiz province),Km2,,,,,60,17.36698602
 1974-0151-USA,1974,Storm,United States of America (the),USA,Northern America,Americas,,Kph,,,,,30,19.28687447
-1974-0032-YMN,1974,Insect infestation,Yemen Arab Rep,YMN,Western Asia,Asia,,,,,,,,19.28687447
 1974-0012-ZAF,1974,Flood,South Africa,ZAF,Southern Africa,Africa,N. Natal,Km2,,,,,26,19.28687447
 1975-0031-USA,1975,Storm,United States of America (the),USA,Northern America,Americas,"Omaha, Nebraska",Kph,,,,,3,21.05030752
 1975-0135-USA,1975,Storm,United States of America (the),USA,Northern America,Americas,,Kph,,,,,50,21.05030752
@@ -2030,7 +2017,6 @@
 1978-0113-DFR,1978,Earthquake,Germany Fed Rep,DFR,Western Europe,Europe,Swabian Alb,Richter,48.29,9.01,6:08,,,25.51591532
 1978-0156-DOM,1978,Epidemic,Dominican Republic (the),DOM,Caribbean,Americas,,Vaccinated,,,,,,25.51591532
 1978-0121-GMB,1978,Epidemic,Gambia (the),GMB,Western Africa,Africa,,Vaccinated,,,,,200,25.51591532
-1978-0148-GNB,1978,Insect infestation,Guinea-Bissau,GNB,Western Africa,Africa,"North, North-East regions",,,,,,,25.51591532
 1978-0218-HKG,1978,Storm,Hong Kong,HKG,Eastern Asia,Asia,,Kph,,,,,3,25.51591532
 1978-0220-HKG,1978,Storm,Hong Kong,HKG,Eastern Asia,Asia,,Kph,,,,,1,25.51591532
 1978-0221-HKG,1978,Storm,Hong Kong,HKG,Eastern Asia,Asia,"Tai Hom, Wong Tai Sin",Kph,,,,,7,25.51591532
@@ -2274,7 +2260,6 @@
 1983-0063-CHN,1983,Storm,China,CHN,Eastern Asia,Asia,Hunan province,Kph,,,,,275,38.9583793
 1983-0069-CHN,1983,Storm,China,CHN,Eastern Asia,Asia,Fujian province,Kph,,,,,54,38.9583793
 1983-0144-CHN,1983,Earthquake,China,CHN,Eastern Asia,Asia,Heze area (Shandong province),Richter,35.206,115.213,5:09,,34,38.9583793
-1983-0051-CHN,1983,Mass movement (dry),China,CHN,Eastern Asia,Asia,"Mt.Sale (Dongxiang arera, N.W.Gansu)",,,,,,277,38.9583793
 1983-0083-CHN,1983,Flood,China,CHN,Eastern Asia,Asia,,Km2,,,,,100,38.9583793
 1983-0313-CHN,1983,Storm,China,CHN,Eastern Asia,Asia,"Guangdong, Fujian provinces",Kph,,,,,30,38.9583793
 1983-0485-CHN,1983,Storm,China,CHN,Eastern Asia,Asia,,Kph,,,,,82,38.9583793
@@ -2282,7 +2267,6 @@
 1983-0491-CHN,1983,Storm,China,CHN,Eastern Asia,Asia,,Kph,,,,,69,38.9583793
 1983-0318-COL,1983,Storm,Colombia,COL,South America,Americas,Barranquilla,Kph,,,,,1,38.9583793
 1983-0059-COL,1983,Earthquake,Colombia,COL,South America,Americas,Popayan city (Cauca department),Richter,2.461,-76.686,8:12,,250,38.9583793
-1983-0100-COL,1983,Mass movement (dry),Colombia,COL,South America,Americas,Gachala,,,,,,160,38.9583793
 1983-0038-COM,1983,Storm,Comoros (the),COM,Eastern Africa,Africa,"Moheli, Anjouan, Grande Comores",Kph,,,,,33,38.9583793
 1983-0065-CRI,1983,Earthquake,Costa Rica,CRI,Central America,Americas,S.E. San José,Richter,8.717,-83.123,20:50,,10,38.9583793
 1983-0042-CUB,1983,Flood,Cuba,CUB,Caribbean,Americas,"Santiago de Cuba, Pinar del Rio, Havana",Km2,,,,,15,38.9583793
@@ -2465,7 +2449,6 @@
 1986-0216-AUS,1986,Storm,Australia,AUS,Australia and New Zealand,Oceania,"Sydney, New South Wales",Kph,,,,,4,42.87312983
 1986-0217-AUS,1986,Storm,Australia,AUS,Australia and New Zealand,Oceania,Adelaid,Kph,,,,,,42.87312983
 1986-0231-AUS,1986,Flood,Australia,AUS,Australia and New Zealand,Oceania,"Central, South",Km2,,,,,8,42.87312983
-1986-0008-BFA,1986,Insect infestation,Burkina Faso,BFA,Western Africa,Africa,"Northern, Eastern regions",,,,,,,42.87312983
 1986-0050-BGD,1986,Storm,Bangladesh,BGD,Southern Asia,Asia,"Gopalganj, Piropjur districts (Mymensingh, Brahmanbaria, Netrokona)",Kph,,,,,100,42.87312983
 1986-0096-BGD,1986,Flood,Bangladesh,BGD,Southern Asia,Asia,Rajshahi district,Km2,,,,,4,42.87312983
 1986-0117-BGD,1986,Storm,Bangladesh,BGD,Southern Asia,Asia,"Kuna, Bagerhat, Sathkhira, Pathuakhali, Barguna",Kph,,,,,40,42.87312983
@@ -2479,7 +2462,6 @@
 1986-0141-BRA,1986,Earthquake,Brazil,BRA,South America,Americas,"Joao Camara, Pobo Branco",Richter,3.58 S,62.42 W,,,1,42.87312983
 1986-0087-BRA,1986,Epidemic,Brazil,BRA,South America,Americas,,Vaccinated,,,,,,42.87312983
 1986-0049-BRA,1986,Flood,Brazil,BRA,South America,Americas,Rio Grande Do Sul,Km2,,,,,28,42.87312983
-1986-0013-BWA,1986,Insect infestation,Botswana,BWA,Southern Africa,Africa,,,,,,,,42.87312983
 1986-0187-CAN,1986,Flood,Canada,CAN,Northern America,Americas,Central Alberta,Km2,,,,,,42.87312983
 1986-0188-CAN,1986,Wildfire,Canada,CAN,Northern America,Americas,"Grand Falls, Newfoundland",Km2,,,,,,42.87312983
 1986-0242-CAN,1986,Wildfire,Canada,CAN,Northern America,Americas,"George Town & Burton, New Brunswick",Km2,,,,,,42.87312983
@@ -2508,13 +2490,10 @@
 1986-9404-CUB,1986,Drought,Cuba,CUB,Caribbean,Americas,,Km2,,,,,,42.87312983
 1986-0402-CUB,1986,Flood,Cuba,CUB,Caribbean,Americas,"Santiago de Cuba, Quantanamo, Granma, Holguin",Km2,,,,,,42.87312983
 1986-0068-DOM,1986,Storm,Dominican Republic (the),DOM,Caribbean,Americas,,Kph,,,,,12,42.87312983
-1986-0009-ETH,1986,Insect infestation,Ethiopia,ETH,Eastern Africa,Africa,"Eritrea, Tigray",,,,,,,42.87312983
 1986-0143-FJI,1986,Storm,Fiji,FJI,Melanesia,Oceania,"Vanua Levu, Taveuni, Lau groups",Kph,,,,,1,42.87312983
 1986-0052-FJI,1986,Flood,Fiji,FJI,Melanesia,Oceania,Vanua Levu + northern Isl.,Km2,,,,,19,42.87312983
 1986-0083-FRA,1986,Wildfire,France,FRA,Western Europe,Europe,"Languedoc, Roussillon, Provence, Cote d'Azur",Km2,,,,,5,42.87312983
 1986-0147-GBR,1986,Storm,United Kingdom of Great Britain and Northern Ireland (the),GBR,Northern Europe,Europe,,Kph,,,,,,42.87312983
-1986-0021-GMB,1986,Insect infestation,Gambia (the),GMB,Western Africa,Africa,Countrywide,,,,,,,42.87312983
-1986-0073-GNB,1986,Insect infestation,Guinea-Bissau,GNB,Western Africa,Africa,,,,,,,,42.87312983
 1986-0113-GRC,1986,Earthquake,Greece,GRC,Southern Europe,Europe,Kalamata (Southwestern Peloppinos),Richter,37.02 N,22.07 E,,,20,42.87312983
 1986-0170-GTM,1986,Earthquake,Guatemala,GTM,Central America,Americas,Ixchiguan (San Marcos province),Richter,15.075 N,92.072 W,,,,42.87312983
 1986-0198-HKG,1986,Storm,Hong Kong,HKG,Eastern Asia,Asia,"Aberdeen, New Territories",Kph,,,,,1,42.87312983
@@ -2534,7 +2513,6 @@
 1987-0300-BEL,1987,Flood,Belgium,BEL,Western Europe,Europe,,Km2,,,,,,44.44423842
 1987-0010-BEN,1987,Epidemic,Benin,BEN,Western Africa,Africa,"Atacora, Borgou, Zou provinces",Vaccinated,,,,,24,44.44423842
 1987-0231-BEN,1987,Epidemic,Benin,BEN,Western Africa,Africa,"Tanguieta, Cobly, Materi districts (Atacora province)",Vaccinated,,,,,41,44.44423842
-1987-0008-BFA,1987,Insect infestation,Burkina Faso,BFA,Western Africa,Africa,,,,,,,,44.44423842
 1987-0132-BGD,1987,Flood,Bangladesh,BGD,Southern Asia,Asia,"Rangpur, Netrokona, Gaibandha, Noagaon, Kurigram, Jamlpur, Cox's Bazar, Chittagong, Noahkali districts",Km2,,,,,2055,44.44423842
 1987-0110-BGD,1987,Storm,Bangladesh,BGD,Southern Asia,Asia,"Hatiya, Swandwip, Patuakhali, Bhola regions",Kph,,,,,12,44.44423842
 1987-0203-BGD,1987,Epidemic,Bangladesh,BGD,Southern Asia,Asia,Dhamrai,Vaccinated,,,,,100,44.44423842
@@ -2570,7 +2548,6 @@
 1987-0077-CHN,1987,Epidemic,China,CHN,Eastern Asia,Asia,Shandong province,Vaccinated,,,,,,44.44423842
 1987-0134-CHN,1987,Flood,China,CHN,Eastern Asia,Asia,Guangdong province,Km2,,,,,20,44.44423842
 1987-0147-CHN,1987,Storm,China,CHN,Eastern Asia,Asia,"Dandong, Dalian (Liaonging province)",Kph,,,,,101,44.44423842
-1987-0012-CMR,1987,Insect infestation,Cameroon,CMR,Middle Africa,Africa,,,,,,,,44.44423842
 1987-0048-COK,1987,Storm,Cook Islands (the),COK,Polynesia,Oceania,"Rarotonga, Aitutaki, Mangaia",Kph,,,,,5,44.44423842
 1987-0124-COL,1987,Flood,Colombia,COL,South America,Americas,"Ibague, PastalesTolima department",Km2,,,,,21,44.44423842
 1987-0167-COL,1987,Landslide,Colombia,COL,South America,Americas,Villatina (Medellin),,,,,,640,44.44423842
@@ -2580,13 +2557,11 @@
 1987-0138-CUB,1987,Wildfire,Cuba,CUB,Caribbean,Americas,"Moa, Holguin",Km2,,,,,,44.44423842
 1987-0161-DOM,1987,Storm,Dominican Republic (the),DOM,Caribbean,Americas,"Barahona-Bari, Montecristi areas",Kph,,,,,3,44.44423842
 1987-0306-DZA,1987,Earthquake,Algeria,DZA,Northern Africa,Africa,"Wilaya de Chle, Wilaya de Tissemsilt, Daira de Bordj Bou Naama, Larbaa",Richter,35.964,1.374,12:11,,1,44.44423842
-1987-0173-DZA,1987,Insect infestation,Algeria,DZA,Northern Africa,Africa,"Tindouf, Adrar",,,,,,,44.44423842
 1987-0082-ECU,1987,Landslide,Ecuador,ECU,South America,Americas,Cochancay,,,,,,100,44.44423842
 1987-0310-ECU,1987,Flood,Ecuador,ECU,South America,Americas,Chone,Km2,,,,,,44.44423842
 1987-0359-EGY,1987,Storm,Egypt,EGY,Northern Africa,Africa,Sinai,Kph,,,,,30,44.44423842
 1987-0148-ESP,1987,Storm,Spain,ESP,Southern Europe,Europe,Navarra,Kph,,,,,,44.44423842
 1987-0207-ESP,1987,Flood,Spain,ESP,Southern Europe,Europe,"Valencia, Murcia",Km2,,,,,5,44.44423842
-1987-0019-ETH,1987,Insect infestation,Ethiopia,ETH,Eastern Africa,Africa,,,,,,,,44.44423842
 1987-9014-ETH,1987,Drought,Ethiopia,ETH,Eastern Africa,Africa,"Ogaden, Eritrea, Tigray, Wello, Shewa, Gama, Gofa, Sidamo, Gondar, Bale",Km2,,,,,367,44.44423842
 1987-0332-FJI,1987,Storm,Fiji,FJI,Melanesia,Oceania,,Kph,,,,,1,44.44423842
 1987-0192-FRA,1987,Storm,France,FRA,Western Europe,Europe,"Bretagne, Normandie",Kph,,,,,4,44.44423842
@@ -2594,10 +2569,8 @@
 1987-0590-FSM,1987,Storm,Micronesia (Federated States of),FSM,Micronesia,Oceania,,Kph,,,,,5,44.44423842
 1987-0191-GBR,1987,Storm,United Kingdom of Great Britain and Northern Ireland (the),GBR,Northern Europe,Europe,South,Kph,,,,,20,44.44423842
 1987-0055-GIN,1987,Epidemic,Guinea,GIN,Western Africa,Africa,Salambande,Vaccinated,,,,,18,44.44423842
-1987-0005-GMB,1987,Insect infestation,Gambia (the),GMB,Western Africa,Africa,,,,,,,,44.44423842
 1987-0118-GNB,1987,Storm,Guinea-Bissau,GNB,Western Africa,Africa,Tombali,Kph,,,,,1,44.44423842
 1987-0165-GNB,1987,Epidemic,Guinea-Bissau,GNB,Western Africa,Africa,"Bissau, Mansoa, Safim, Orango",Vaccinated,,,,,68,44.44423842
-1987-0015-GNB,1987,Insect infestation,Guinea-Bissau,GNB,Western Africa,Africa,,,,,,,,44.44423842
 1987-0596-GRC,1987,Extreme temperature,Greece,GRC,Southern Europe,Europe,,°C,,,,,1000,44.44423842
 1987-0145-GRC,1987,Wildfire,Greece,GRC,Southern Europe,Europe,Rhodes,Km2,,,,,,44.44423842
 1987-0339-GRC,1987,Storm,Greece,GRC,Southern Europe,Europe,Athenes,Kph,,,,,48,44.44423842
@@ -2653,7 +2626,6 @@
 1988-0136-COL,1988,Volcanic activity,Colombia,COL,South America,Americas,,,,,,,,46.25655683
 1988-0373-COL,1988,Flood,Colombia,COL,South America,Americas,"Cordoba, Sucre",Km2,,,,,120,46.25655683
 1988-0468-COL,1988,Storm,Colombia,COL,South America,Americas,"San Andres, Guajira peninsula and coastal towns",Kph,,,,,26,46.25655683
-1988-0131-CPV,1988,Insect infestation,Cabo Verde,CPV,Western Africa,Africa,,,,,,,,46.25655683
 1988-0001-CRI,1988,Flood,Costa Rica,CRI,Central America,Americas,"Atlantic Zone, Limon province",Km2,,,,,7,46.25655683
 1988-0466-CRI,1988,Storm,Costa Rica,CRI,Central America,Americas,Puntarenas province,Kph,,,,,28,46.25655683
 1988-0224-CUB,1988,Flood,Cuba,CUB,Caribbean,Americas,"Sancti Spiritus, Cienfuegos, Ciego de Avila, Camaguey",Km2,,,,,23,46.25655683
@@ -2661,16 +2633,13 @@
 1988-0139-DFR,1988,Flood,Germany Fed Rep,DFR,Western Europe,Europe,Bavaria,Km2,,,,,6,46.25655683
 1988-0385-DOM,1988,Flood,Dominican Republic (the),DOM,Caribbean,Americas,"North, South-East",Km2,,,,,,46.25655683
 1988-0042-DZA,1988,Earthquake,Algeria,DZA,Northern Africa,Africa,"Blida, Mede-Algiers areas",Richter,36.443,2.759,11:12,,,46.25655683
-1988-0015-DZA,1988,Insect infestation,Algeria,DZA,Northern Africa,Africa,Saharan Atlas mountains,,,,,,,46.25655683
 1988-0404-DZA,1988,Storm,Algeria,DZA,Northern Africa,Africa,"Guezzam, Tin Zawaten, Badji Moktar",Kph,,,,,,46.25655683
 1988-0341-ETH,1988,Flood,Ethiopia,ETH,Eastern Africa,Africa,Gambella,Km2,,,,,,46.25655683
 1988-0068-ETH,1988,Epidemic,Ethiopia,ETH,Eastern Africa,Africa,Addis Ababa,Vaccinated,,,,,15,46.25655683
-1988-0243-ETH,1988,Insect infestation,Ethiopia,ETH,Eastern Africa,Africa,"Tigray,Eritrea",,,,,,,46.25655683
 1988-0443-ETH,1988,Flood,Ethiopia,ETH,Eastern Africa,Africa,"Sidamo province, /Dollo",Km2,,,,,45,46.25655683
 1988-0493-GAB,1988,Flood,Gabon,GAB,Middle Africa,Africa,"Agooue maritime, Haut Ogooue, Ogooue Ivindo provinces",Km2,,,,,,46.25655683
 1988-0149-GAB,1988,Epidemic,Gabon,GAB,Middle Africa,Africa,Libreville,Vaccinated,,,,,,46.25655683
 1988-0186-GHA,1988,Epidemic,Ghana,GHA,Western Africa,Africa,"Volta, Upper East, Upper West",Vaccinated,,,,,15,46.25655683
-1988-0448-GMB,1988,Insect infestation,Gambia (the),GMB,Western Africa,Africa,,,,,,,,46.25655683
 1988-0298-GRC,1988,Extreme temperature,Greece,GRC,Southern Europe,Europe,,°C,,,,,56,46.25655683
 1988-0463-GTM,1988,Earthquake,Guatemala,GTM,Central America,Americas,"PALIN, SAN VICENTE PACAYA, Chamaltenango area",Richter,13.881,-90.45,8:47,,,46.25655683
 1988-0418-GTM,1988,Flood,Guatemala,GTM,Central America,Americas,Playa Grande area (El Quiche province),Km2,,,,,,46.25655683
@@ -2840,7 +2809,6 @@
 1980-0354-PAK,1980,Flood,Pakistan,PAK,Southern Asia,Asia,,Km2,,,,,75,32.23389323
 1980-0100-PER,1980,Earthquake,Peru,PER,South America,Americas,Ayacucho,Richter,-13.347,-74.545,1:58,,7,32.23389323
 1980-0039-PER,1980,Flood,Peru,PER,South America,Americas,Cuzco,Km2,,,,,70,32.23389323
-1980-0314-PHL,1980,Mass movement (dry),Philippines (the),PHL,South-Eastern Asia,Asia,Santa Fe (Vizcaya Province),,,,,,50,32.23389323
 1980-0010-PHL,1980,Flood,Philippines (the),PHL,South-Eastern Asia,Asia,Mindanao,Km2,,,,,2,32.23389323
 1980-0067-PHL,1980,Storm,Philippines (the),PHL,South-Eastern Asia,Asia,Northern,Kph,,,,,31,32.23389323
 1980-0070-PHL,1980,Storm,Philippines (the),PHL,South-Eastern Asia,Asia,Cagayan Valley (Northwestern),Kph,,,,,40,32.23389323
@@ -2956,7 +2924,6 @@
 1982-0107-KEN,1982,Flood,Kenya,KEN,Eastern Africa,Africa,Near Lake Victoria,Km2,,,,,75,37.74582208
 1982-0091-KOR,1982,Storm,Korea (the Republic of),KOR,Eastern Asia,Asia,Southwest coast,Kph,,,,,63,37.74582208
 1982-0095-KOR,1982,Storm,Korea (the Republic of),KOR,Eastern Asia,Asia,,Kph,,,,,5,37.74582208
-1982-0136-LBR,1982,Mass movement (dry),Liberia,LBR,Western Africa,Africa,Near Mano river,,,,,,46,37.74582208
 1982-0056-LKA,1982,Flood,Sri Lanka,LKA,Southern Asia,Asia,South,Km2,,,,,20,37.74582208
 1982-0130-LKA,1982,Flood,Sri Lanka,LKA,Southern Asia,Asia,Matale (Central regions),Km2,,,,,34,37.74582208
 1982-0045-MAR,1982,Landslide,Morocco,MAR,Northern Africa,Africa,Fez,,,,,,1,37.74582208
@@ -3039,7 +3006,6 @@
 1983-0525-JPN,1983,Landslide,Japan,JPN,Eastern Asia,Asia,,,,,,,70,38.9583793
 1983-0123-JPN,1983,Storm,Japan,JPN,Eastern Asia,Asia,Western Japan,Kph,,,,,44,38.9583793
 1983-0098-JPN,1983,Landslide,Japan,JPN,Eastern Asia,Asia,Western Honshu,,,,,,117,38.9583793
-1983-0455-LBN,1983,Mass movement (dry),Lebanon,LBN,Western Asia,Asia,Bekaa valley,,,,,,20,38.9583793
 1983-0118-LCA,1983,Storm,Saint Lucia,LCA,Caribbean,Americas,,Kph,,,,,,38.9583793
 1983-0151-LKA,1983,Flood,Sri Lanka,LKA,Southern Asia,Asia,"North, North Central, Eastern provinces",Km2,,,,,3,38.9583793
 1983-0375-LUX,1983,Flood,Luxembourg,LUX,Western Europe,Europe,Moselle Valley,Km2,,,,,,38.9583793
@@ -3183,10 +3149,8 @@
 1985-0128-LKA,1985,Storm,Sri Lanka,LKA,Southern Asia,Asia,,Kph,,,,,,42.07452677
 1985-0029-LSO,1985,Flood,Lesotho,LSO,Southern Africa,Africa,Mokhotlong district,Km2,,,,,,42.07452677
 1985-0109-MEX,1985,Earthquake,Mexico,MEX,Central America,Americas,"Mexico city, Michoacan, Jalisco",Richter,18.19,-102.533,3:47,,9500,42.07452677
-1985-0008-MLI,1985,Insect infestation,Mali,MLI,Western Africa,Africa,"Kayes, Yelimane, Nara",,,,,,,42.07452677
 1985-0028-MOZ,1985,Flood,Mozambique,MOZ,Eastern Africa,Africa,Maputo province,Km2,,,,,8,42.07452677
 1985-0047-MOZ,1985,Storm,Mozambique,MOZ,Eastern Africa,Africa,Maputo province,Kph,,,,,,42.07452677
-1985-0010-MRT,1985,Insect infestation,Mauritania,MRT,Western Africa,Africa,South-East,,,,,,,42.07452677
 1985-0394-MRT,1985,Flood,Mauritania,MRT,Western Africa,Africa,"Tintane, M'bout, Bassiknou, Boutilimit",Km2,,,,,,42.07452677
 1985-0156-MUS,1985,Storm,Mauritius,MUS,Eastern Africa,Africa,Rodigues Isl.,Kph,,,,,,42.07452677
 1985-0015-NGA,1985,Flood,Nigeria,NGA,Western Africa,Africa,Central,Km2,,,,,,42.07452677
@@ -3196,11 +3160,9 @@
 1985-0393-NZL,1985,Flood,New Zealand,NZL,Australia and New Zealand,Oceania,Poverty Bay,Km2,,,,,,42.07452677
 1985-0078-PAK,1985,Earthquake,Pakistan,PAK,Southern Asia,Asia,"Chitral, Swat districts",Richter,36.19,70.896,12:54,,5,42.07452677
 1985-0191-PER,1985,Earthquake,Peru,PER,South America,Americas,Chimbote area,Richter,-9.159,-78.887,6:26,,,42.07452677
-1985-0071-PER,1985,Mass movement (dry),Peru,PER,South America,Americas,La Hoyada region,,,,,,,42.07452677
 1985-0239-PER,1985,Landslide,Peru,PER,South America,Americas,Colcabamba department,,,,,,150,42.07452677
 1985-0237-PER,1985,Landslide,Peru,PER,South America,Americas,Esat of Lima,,,,,,,42.07452677
 1985-0171-PHL,1985,Earthquake,Philippines (the),PHL,South-Eastern Asia,Asia,Mindanao,Richter,7.758,123.544,9:49,,2,42.07452677
-1985-0125-PHL,1985,Mass movement (dry),Philippines (the),PHL,South-Eastern Asia,Asia,South Mindanao,,,,,,300,42.07452677
 1985-0342-PHL,1985,Flood,Philippines (the),PHL,South-Eastern Asia,Asia,"Tanjay, Pamplona",Km2,,,,,54,42.07452677
 1985-0124-PHL,1985,Storm,Philippines (the),PHL,South-Eastern Asia,Asia,"Aurora, Nueva Ecija, Tarlac, Bur Lacan provinces (Central Luzon)",Kph,,,,,81,42.07452677
 1985-0190-PHL,1985,Storm,Philippines (the),PHL,South-Eastern Asia,Asia,"Luzon, Ilocos Sur, Ilocos Norte, Benguet, Nueva Ecija, Bataan, Zambales, Vigan, Bantay, San Esteban, Laoag, Bagio city, Pampanga",Kph,,,,,100,42.07452677
@@ -3258,13 +3220,10 @@
 1986-0042-MDG,1986,Storm,Madagascar,MDG,Eastern Africa,Africa,"Toamasina, Fenerive east, Sante Marie, Ambatondrazaka, Brickaville, Moramanga, Fianarantsoa",Kph,,,,,99,42.87312983
 1986-0144-MDG,1986,Flood,Madagascar,MDG,Eastern Africa,Africa,Antananarivo area,Km2,,,,,,42.87312983
 1986-0233-MEX,1986,Flood,Mexico,MEX,Central America,Americas,Monterrey,Km2,,,,,20,42.87312983
-1986-0181-MLI,1986,Insect infestation,Mali,MLI,Western Africa,Africa,"North Central region, Niger River Delta",,,,,,,42.87312983
 1986-0045-MNG,1986,Wildfire,Mongolia,MNG,Eastern Asia,Asia,"East Gobi, Khentei Aimaks",Km2,,,,,,42.87312983
 1986-0136-MYS,1986,Flood,Malaysia,MYS,South-Eastern Asia,Asia,East Coast States of Trengganu and Kelantan,Km2,,,,,11,42.87312983
-1986-0088-NER,1986,Insect infestation,Niger (the),NER,Western Africa,Africa,"Niamey, Dosso, Diffa",,,,,,,42.87312983
 1986-0039-NGA,1986,Epidemic,Nigeria,NGA,Western Africa,Africa,Bauchi & Kano states,Vaccinated,,,,,73,42.87312983
 1986-0127-NGA,1986,Epidemic,Nigeria,NGA,Western Africa,Africa,"Oju, Ogoja (Benue state), Abakaliki (Anambra state) Imo states",Vaccinated,,,,,1000,42.87312983
-1986-0108-NGA,1986,Insect infestation,Nigeria,NGA,Western Africa,Africa,Northern regions,,,,,,,42.87312983
 1986-0148-NLD,1986,Storm,Netherlands (the),NLD,Western Europe,Europe,,Kph,,,,,,42.87312983
 1986-0210-NPL,1986,Storm,Nepal,NPL,Southern Asia,Asia,Kathmandu Valley,Kph,,,,,1,42.87312983
 1986-0211-NPL,1986,Storm,Nepal,NPL,Southern Asia,Asia,"Mahendranagar, Kathmandu Valley",Kph,,,,,,42.87312983
@@ -3288,8 +3247,6 @@
 1986-0153-PHL,1986,Storm,Philippines (the),PHL,South-Eastern Asia,Asia,,Kph,,,,,16,42.87312983
 1986-0155-PHL,1986,Flood,Philippines (the),PHL,South-Eastern Asia,Asia,Davao Oriental,Km2,,,,,3,42.87312983
 1986-0071-PRT,1986,Wildfire,Portugal,PRT,Southern Europe,Europe,Coimbra region (Central Portugal),Km2,,,,,15,42.87312983
-1986-0007-SDN,1986,Insect infestation,Sudan (the),SDN,Northern Africa,Africa,,,,,,,,42.87312983
-1986-0012-SEN,1986,Insect infestation,Senegal,SEN,Western Africa,Africa,Northern regions,,,,,,,42.87312983
 1986-0065-SLB,1986,Storm,Solomon Islands,SLB,Melanesia,Oceania,"Malaita, Guadalcanal, Ulawa, Makira, Rennell, Bellona Islands",Kph,,,,,101,42.87312983
 1986-0123-SLV,1986,Earthquake,El Salvador,SLV,Central America,Americas,San Salvador,Richter,13.40 N,89.10 W,11:50,,1100,42.87312983
 1987-0213-IDN,1987,Earthquake,Indonesia,IDN,South-Eastern Asia,Asia,South Pantar Isl.(Timor),Richter,-8.247,124.155,8:43,,125,44.44423842
@@ -3302,7 +3259,6 @@
 1987-0256-HTI,1987,Flood,Haiti,HTI,Caribbean,Americas,Port-De-Paix,Km2,,,,,,44.44423842
 1987-0257-HTI,1987,Flood,Haiti,HTI,Caribbean,Americas,"Delmas, Caradeux, Port-au-Prince",Km2,,,,,,44.44423842
 1987-0086-IDN,1987,Earthquake,Indonesia,IDN,South-Eastern Asia,Asia,Tarutung (North Sumatra),Richter,2.244,98.866,2:22,,2,44.44423842
-1987-0094-IDN,1987,Mass movement (dry),Indonesia,IDN,South-Eastern Asia,Asia,Padang Panjang (West Sumatra),,,,,,131,44.44423842
 1987-0234-IDN,1987,Volcanic activity,Indonesia,IDN,South-Eastern Asia,Asia,Flores Isl.,,,,,,,44.44423842
 1987-0063-IDN,1987,Flood,Indonesia,IDN,South-Eastern Asia,Asia,Esatern Java,Km2,,,,,3,44.44423842
 1987-0087-IDN,1987,Flood,Indonesia,IDN,South-Eastern Asia,Asia,Bengkulu (South Sumatra),Km2,,,,,37,44.44423842
@@ -3350,19 +3306,15 @@
 1987-0202-LKA,1987,Epidemic,Sri Lanka,LKA,Southern Asia,Asia,,Vaccinated,,,,,53,44.44423842
 1987-9025-LKA,1987,Drought,Sri Lanka,LKA,Southern Asia,Asia,"North, Northeast",Km2,,,,,,44.44423842
 1987-0163-LSO,1987,Flood,Lesotho,LSO,Southern Africa,Africa,Mokhotlong & other remote mountain areas,Km2,,,,,18,44.44423842
-1987-0172-MAR,1987,Insect infestation,Morocco,MAR,Northern Africa,Africa,Southeastern,,,,,,,44.44423842
 1987-0084-MDV,1987,Flood,Maldives,MDV,Southern Asia,Asia,,Km2,,,,,,44.44423842
 1987-0254-MEX,1987,Earthquake,Mexico,MEX,Central America,Americas,Mexicali,Richter,33.015,-115.852,5:15,,2,44.44423842
 1987-0111-MEX,1987,Flood,Mexico,MEX,Central America,Americas,Mexico city,Km2,,,,,5,44.44423842
 1987-0583-MEX,1987,Flood,Mexico,MEX,Central America,Americas,Mexico city,Km2,,,,,11,44.44423842
 1987-0176-MLI,1987,Epidemic,Mali,MLI,Western Africa,Africa,Western,Vaccinated,,,,,57,44.44423842
 1987-0151-MLI,1987,Epidemic,Mali,MLI,Western Africa,Africa,Bamako & rural areas,Vaccinated,,,,,145,44.44423842
-1987-0004-MLI,1987,Insect infestation,Mali,MLI,Western Africa,Africa,,,,,,,,44.44423842
 1987-9154-MOZ,1987,Drought,Mozambique,MOZ,Eastern Africa,Africa,Inhambane province,Km2,,,,,50,44.44423842
 1987-0171-MRT,1987,Epidemic,Mauritania,MRT,Western Africa,Africa,Seven Regions Threatened,Vaccinated,,,,,35,44.44423842
-1987-0204-MRT,1987,Insect infestation,Mauritania,MRT,Western Africa,Africa,"Southwest, North, East, South",,,,,,,44.44423842
 1987-0221-MYS,1987,Flood,Malaysia,MYS,South-Eastern Asia,Asia,East coast states,Km2,,,,,3,44.44423842
-1987-0009-NER,1987,Insect infestation,Niger (the),NER,Western Africa,Africa,,,,,,,,44.44423842
 1987-0529-NGA,1987,Epidemic,Nigeria,NGA,Western Africa,Africa,,Vaccinated,,,,,38,44.44423842
 1987-0092-NGA,1987,Epidemic,Nigeria,NGA,Western Africa,Africa,Bauchi state,Vaccinated,,,,,89,44.44423842
 1987-0177-NGA,1987,Epidemic,Nigeria,NGA,Western Africa,Africa,Cross River state,Vaccinated,,,,,100,44.44423842
@@ -3389,9 +3341,7 @@
 1987-0569-PYF,1987,Landslide,French Polynesia,PYF,Polynesia,Oceania,Huahine (Tahiti),,,,,,10,44.44423842
 1987-0060-REU,1987,Storm,Réunion,REU,Eastern Africa,Africa,Saint Denis,Kph,,,,,10,44.44423842
 1987-9174-SDN,1987,Drought,Sudan (the),SDN,Northern Africa,Africa,"Kordofan, Darfur",Km2,,,,,,44.44423842
-1987-0006-SDN,1987,Insect infestation,Sudan (the),SDN,Northern Africa,Africa,"Central Northern Kordofan, Northern Darfur provinces",,,,,,,44.44423842
 1987-0142-SDN,1987,Epidemic,Sudan (the),SDN,Northern Africa,Africa,Blue Nile province,Vaccinated,,,,,60,44.44423842
-1987-0007-SEN,1987,Insect infestation,Senegal,SEN,Western Africa,Africa,,,,,,,,44.44423842
 1988-0119-NPL,1988,Storm,Nepal,NPL,Southern Asia,Asia,Kathmandu Valley,Kph,,,,,70,46.25655683
 1988-0430-MEX,1988,Storm,Mexico,MEX,Central America,Americas,Yucatan and Gulf coast,Kph,,,,,240,46.25655683
 1988-0060-HTI,1988,Flood,Haiti,HTI,Caribbean,Americas,North-West,Km2,,,,,15,46.25655683
@@ -3421,21 +3371,15 @@
 1988-0061-JAM,1988,Flood,Jamaica,JAM,Caribbean,Americas,Linstead area of St Catherine,Km2,,,,,,46.25655683
 1988-0154-KEN,1988,Storm,Kenya,KEN,Eastern Africa,Africa,,Kph,,,,,50,46.25655683
 1988-0295-KOR,1988,Landslide,Korea (the Republic of),KOR,Eastern Asia,Asia,,,,,,,25,46.25655683
-1988-0094-MAR,1988,Mass movement (dry),Morocco,MAR,Northern Africa,Africa,Near Fes,,,,,,31,46.25655683
-1988-0492-MAR,1988,Insect infestation,Morocco,MAR,Northern Africa,Africa,South,,,,,,,46.25655683
 1988-0029-MEX,1988,Extreme temperature,Mexico,MEX,Central America,Americas,,°C,,,,,23,46.25655683
 1988-0045-MEX,1988,Storm,Mexico,MEX,Central America,Americas,Ensenada,Kph,,,,,,46.25655683
 1988-0245-MLI,1988,Epidemic,Mali,MLI,Western Africa,Africa,Bamako,Vaccinated,,,,,47,46.25655683
-1988-0147-MLI,1988,Insect infestation,Mali,MLI,Western Africa,Africa,"Eastern, Western",,,,,,,46.25655683
 1988-0342-MLI,1988,Flood,Mali,MLI,Western Africa,Africa,"Bamako, Segou, Koulikorou",Km2,,,,,17,46.25655683
 1988-0102-MOZ,1988,Storm,Mozambique,MOZ,Eastern Africa,Africa,Quelimane,Kph,,,,,100,46.25655683
-1988-0033-MOZ,1988,Insect infestation,Mozambique,MOZ,Eastern Africa,Africa,"Maputo, Niassa",,,,,,,46.25655683
 1988-0343-MRT,1988,Epidemic,Mauritania,MRT,Western Africa,Africa,"Gorgol, Brakna Gui Dimakha, Nouakchott",Vaccinated,,,,,38,46.25655683
-1988-0241-MRT,1988,Insect infestation,Mauritania,MRT,Western Africa,Africa,"North, East, South",,,,,,,46.25655683
 1988-0509-MYS,1988,Flood,Malaysia,MYS,South-Eastern Asia,Asia,Kelantan + East cost states,Km2,,,,,27,46.25655683
 1988-0192-NAM,1988,Epidemic,Namibia,NAM,Southern Africa,Africa,,Vaccinated,,,,,100,46.25655683
 1988-0336-NER,1988,Flood,Niger (the),NER,Western Africa,Africa,"Tillaberi, Zinder departments",Km2,,,,,20,46.25655683
-1988-0234-NER,1988,Insect infestation,Niger (the),NER,Western Africa,Africa,"Diffa, Tahoua, Central Niger",,,,,,,46.25655683
 1988-0334-NGA,1988,Flood,Nigeria,NGA,Western Africa,Africa,"Kano, Borno, Oyo states",Km2,,,,,130,46.25655683
 1988-0523-NGA,1988,Landslide,Nigeria,NGA,Western Africa,Africa,Anambra state,,,,,,,46.25655683
 1988-0481-NIC,1988,Storm,Nicaragua,NIC,Central America,Americas,Caribbean coast,Kph,,,,,130,46.25655683
@@ -3444,7 +3388,6 @@
 1988-0381-NPL,1988,Landslide,Nepal,NPL,Southern Asia,Asia,Myagi District,,,,,,106,46.25655683
 1988-0601-NZL,1988,Storm,New Zealand,NZL,Australia and New Zealand,Oceania,Gisborne District,Kph,,,,,6,46.25655683
 1988-0321-PAK,1988,Storm,Pakistan,PAK,Southern Asia,Asia,Jagat,Kph,,,,,36,46.25655683
-1988-0138-PAK,1988,Mass movement (dry),Pakistan,PAK,Southern Asia,Asia,"Arandu Gul - Jammu, Kashmir regions",,,,,,50,46.25655683
 1988-0332-PAK,1988,Flood,Pakistan,PAK,Southern Asia,Asia,"Punjab, Sind, mountain provinces",Km2,,,,,196,46.25655683
 1988-0478-PAN,1988,Storm,Panama,PAN,Central America,Americas,"Aona, Veraguas state",Kph,,,,,30,46.25655683
 1988-0093-PER,1988,Flood,Peru,PER,South America,Americas,Cuzco province,Km2,,,,,38,46.25655683
@@ -3459,16 +3402,11 @@
 1988-0480-PHL,1988,Storm,Philippines (the),PHL,South-Eastern Asia,Asia,"Tarlac, Southern Tagalog, Metro Manila, Albay, Cebu, Cagayan de Oro provinces",Kph,,,,,416,46.25655683
 1988-0506-PHL,1988,Storm,Philippines (the),PHL,South-Eastern Asia,Asia,"Manilla, Tagalog, Bicol, western Visayas",Kph,,,,,289,46.25655683
 1988-0557-PHL,1988,Storm,Philippines (the),PHL,South-Eastern Asia,Asia,,Kph,,,,,41,46.25655683
-1988-0415-PNG,1988,Mass movement (dry),Papua New Guinea,PNG,Melanesia,Oceania,Kaiapit district (Morobe province),,,,,,76,46.25655683
 1988-0233-PRY,1988,Flood,Paraguay,PRY,South America,Americas,Bahia Negra to Alberdi,Km2,,,,,,46.25655683
 1988-0201-RWA,1988,Flood,Rwanda,RWA,Eastern Africa,Africa,"Ruhengeri, Gitarama, Gisenyi, Gikongoro, Kibuye",Km2,,,,,48,46.25655683
 1988-0359-SDN,1988,Flood,Sudan (the),SDN,Northern Africa,Africa,"Gadharef, Kassala, Eddamer, Ash Showak, Khartoum, Karima, Merawi, Badan, Maad isl., El Geneina, Kordofan, Gezira, Katarant, Atbara, Aldueim",Km2,,,,,96,46.25655683
 1988-0004-SDN,1988,Epidemic,Sudan (the),SDN,Northern Africa,Africa,"Khartoum, Central region",Vaccinated,,,,,2770,46.25655683
 1988-0495-SDN,1988,Epidemic,Sudan (the),SDN,Northern Africa,Africa,Eastern Sudan,Vaccinated,,,,,,46.25655683
-1988-0287-SDN,1988,Insect infestation,Sudan (the),SDN,Northern Africa,Africa,"Darfur province, Khartoum area",,,,,,,46.25655683
-1988-0019-SDN,1988,Insect infestation,Sudan (the),SDN,Northern Africa,Africa,"East Sudan, Red Sea province",,,,,,,46.25655683
-1988-0016-SEN,1988,Insect infestation,Senegal,SEN,Western Africa,Africa,Countrywide,,,,,,,46.25655683
-1988-0145-SEN,1988,Insect infestation,Senegal,SEN,Western Africa,Africa,"Northern, Eastern regions",,,,,,,46.25655683
 1988-0345-SEN,1988,Flood,Senegal,SEN,Western Africa,Africa,"Dakar, Diourbel, Thies, Tambacounda",Km2,,,,,,46.25655683
 1988-0387-SLV,1988,Flood,El Salvador,SLV,Central America,Americas,"La Paz, Usulutan, San Miguel, La Union",Km2,,,,,33,46.25655683
 1988-0265-SLV,1988,Landslide,El Salvador,SLV,Central America,Americas,Agua Escondida,,,,,,22,46.25655683
@@ -3480,7 +3418,6 @@
 1978-0258-USA,1978,Storm,United States of America (the),USA,Northern America,Americas,,Kph,,,,,25,25.51591532
 1978-0259-USA,1978,Storm,United States of America (the),USA,Northern America,Americas,,Kph,,,,,25,25.51591532
 1978-0261-USA,1978,Flood,United States of America (the),USA,Northern America,Americas,,Km2,,,,,27,25.51591532
-1978-0244-VNM,1978,Insect infestation,Viet Nam,VNM,South-Eastern Asia,Asia,,,,,,,,25.51591532
 1979-0039-YUG,1979,Earthquake,Yugoslavia,YUG,Southern Europe,Europe,Montenegro,Richter,42.096,19.209,7:19,,121,28.3875989
 1979-0122-TUN,1979,Flood,Tunisia,TUN,Northern Africa,Africa,Medenine,Km2,,,,,,28.3875989
 1979-0059-TZA,1979,Flood,"Tanzania, United Republic of",TZA,Eastern Africa,Africa,Mbeya,Km2,,,,,,28.3875989
@@ -3493,7 +3430,6 @@
 1979-0016-VUT,1979,Storm,Vanuatu,VUT,Melanesia,Oceania,Western Islands,Kph,,,,,,28.3875989
 1979-0052-YUG,1979,Earthquake,Yugoslavia,YUG,Southern Europe,Europe,Kotor-Ulcinj area (South Adriatic coast) (Montenegro); Debar (Macedonia),Richter,42.255,18.752,18:23,,,28.3875989
 1979-0101-YUG,1979,Flood,Yugoslavia,YUG,Southern Europe,Europe,Montenegro,Km2,,,,,22,28.3875989
-1979-0246-ZMB,1979,Insect infestation,Zambia,ZMB,Eastern Africa,Africa,,,,,,,,28.3875989
 1980-9114-TGO,1980,Drought,Togo,TGO,Western Africa,Africa,,Km2,,,,,,32.23389323
 1980-0046-YUG,1980,Earthquake,Yugoslavia,YUG,Southern Europe,Europe,"Mt Kopaonik, Aleksandrovac, Brus, Kursumlija, Raska areas (Serbia)",Richter,43.294,20.837,21:02,,,32.23389323
 1980-0063-USA,1980,Extreme temperature,United States of America (the),USA,Northern America,Americas,"Kansas City, Missouri, St Louis, Missouri, Memphis, Tennessee",°C,,,,,1260,32.23389323
@@ -3665,7 +3601,6 @@
 1986-0020-STP,1986,Epidemic,Sao Tome and Principe,STP,Middle Africa,Africa,,Vaccinated,,,,,150,42.87312983
 1986-0106-SUN,1986,Earthquake,Soviet Union,SUN,Russian Federation,Europe,Moldavia,Richter,26,46.5,,,1,42.87312983
 1986-0171-SUN,1986,Earthquake,Soviet Union,SUN,Russian Federation,Europe,Akhalkalaki area (Georgia),Richter,41.431,43.737,,,2,42.87312983
-1986-0010-TCD,1986,Insect infestation,Chad,TCD,Middle Africa,Africa,Laka Chad area,,,,,,,42.87312983
 1986-0059-THA,1986,Flood,Thailand,THA,South-Eastern Asia,Asia,"Bangkok, central, Eastern, Southern",Km2,,,,,42,42.87312983
 1986-0118-TUN,1986,Flood,Tunisia,TUN,Northern Africa,Africa,"Tunis, Beja",Km2,,,,,23,42.87312983
 1986-0058-TUR,1986,Earthquake,Turkey,TUR,Western Asia,Asia,"Malatya, Adiyaman provinces",Richter,37.993 N,37.806 E,,,15,42.87312983
@@ -3674,7 +3609,6 @@
 1986-0066-TWN,1986,Landslide,Taiwan (Province of China),TWN,Eastern Asia,Asia,Near Chusan,,,,,,14,42.87312983
 1986-0101-TWN,1986,Storm,Taiwan (Province of China),TWN,Eastern Asia,Asia,"Central, Southern",Kph,,,,,52,42.87312983
 1986-0115-TWN,1986,Storm,Taiwan (Province of China),TWN,Eastern Asia,Asia,Central,Kph,,,,,13,42.87312983
-1986-0011-TZA,1986,Insect infestation,"Tanzania, United Republic of",TZA,Eastern Africa,Africa,Western,,,,,,,42.87312983
 1986-0379-TZA,1986,Flood,"Tanzania, United Republic of",TZA,Eastern Africa,Africa,,Km2,,,,,,42.87312983
 1986-0403-UGA,1986,Epidemic,Uganda,UGA,Eastern Africa,Africa,,Vaccinated,,,,,27,42.87312983
 1986-0092-URY,1986,Flood,Uruguay,URY,South America,Americas,"East, South departments",Km2,,,,,,42.87312983
@@ -3691,15 +3625,11 @@
 1986-0109-VNM,1986,Storm,Viet Nam,VNM,South-Eastern Asia,Asia,"Ha Nam Ninh, Thai Binh, Hason Binh, Haiphong, Quang Ninh provinces",Kph,,,,,435,42.87312983
 1986-0142-WLF,1986,Storm,Wallis and Futuna,WLF,Polynesia,Oceania,,Kph,,,,,1,42.87312983
 1986-0002-YUG,1986,Flood,Yugoslavia,YUG,Southern Europe,Europe,"Montenegro, Southern Serbia",Km2,,,,,,42.87312983
-1986-0014-ZMB,1986,Insect infestation,Zambia,ZMB,Eastern Africa,Africa,"Kafue Flats, North province",,,,,,,42.87312983
 1987-9014-SOM,1987,Drought,Somalia,SOM,Eastern Africa,Africa,"Togdheer, Sol, Sannag, Bari, Nugall, Mudug, Galguduud, Hiraan, Bakool, Shabeellaha, Gedo",Km2,,,,,600,44.44423842
 1987-0093-SOM,1987,Flood,Somalia,SOM,Eastern Africa,Africa,"Mogadishu, Central, Northwest Somalia",Km2,,,,,,44.44423842
-1987-0074-SUN,1987,Mass movement (dry),Soviet Union,SUN,Russian Federation,Europe,Argazan (Tajikistan),,,,,,52,44.44423842
 1987-0377-SUN,1987,Landslide,Soviet Union,SUN,Russian Federation,Europe,Schamuschi (Georgia),,,,,,26,44.44423842
 1987-0090-SUN,1987,Wildfire,Soviet Union,SUN,Russian Federation,Europe,Eastern Siberia (Russia),Km2,,,,,,44.44423842
 1987-0054-SUN,1987,Flood,Soviet Union,SUN,Russian Federation,Europe,Tbilisi (Georgia),Km2,,,,,110,44.44423842
-1987-0593-TCD,1987,Insect infestation,Chad,TCD,Middle Africa,Africa,,,,,,,,44.44423842
-1987-0594-TCD,1987,Insect infestation,Chad,TCD,Middle Africa,Africa,All regions,,,,,,,44.44423842
 1987-0219-THA,1987,Flood,Thailand,THA,South-Eastern Asia,Asia,South,Km2,,,,,24,44.44423842
 1987-0064-TKL,1987,Storm,Tokelau,TKL,Polynesia,Oceania,"Fakaofo, Nukumono, Atafu Atolls",Kph,,,,,,44.44423842
 1987-0382-TUR,1987,Extreme temperature,Turkey,TUR,Western Asia,Asia,Istanbul,°C,,,,,30,44.44423842
@@ -3727,7 +3657,6 @@
 1987-9029-VNM,1987,Drought,Viet Nam,VNM,South-Eastern Asia,Asia,Northern Provinces,Km2,,,,,,44.44423842
 1987-0363-VNM,1987,Storm,Viet Nam,VNM,South-Eastern Asia,Asia,,Kph,,,,,22,44.44423842
 1987-0057-VUT,1987,Storm,Vanuatu,VUT,Melanesia,Oceania,"Efate, Erromango, Tanna, Aniwa",Kph,,,,,48,44.44423842
-1987-0013-YMN,1987,Insect infestation,Yemen Arab Rep,YMN,Western Asia,Asia,Northern Tihama,,,,,,,44.44423842
 1987-0166-ZAF,1987,Flood,South Africa,ZAF,Southern Africa,Africa,"Natal, Kwazulu",Km2,,,,,506,44.44423842
 1987-0152-COD,1987,Epidemic,Congo (the Democratic Republic of the),COD,Middle Africa,Africa,Along Zaire River,Vaccinated,,,,,450,44.44423842
 1987-0528-COD,1987,Epidemic,Congo (the Democratic Republic of the),COD,Middle Africa,Africa,Bolobo,Vaccinated,,,,,48,44.44423842
@@ -3739,10 +3668,7 @@
 1988-0277-TCD,1988,Storm,Chad,TCD,Middle Africa,Africa,Biltine prefecture,Kph,,,,,11,46.25655683
 1988-0386-TCD,1988,Flood,Chad,TCD,Middle Africa,Africa,"N'djamena, Moyen Chari, Logone Occidental, Salamat",Km2,,,,,43,46.25655683
 1988-0011-TCD,1988,Epidemic,Chad,TCD,Middle Africa,Africa,N'djamena + South,Vaccinated,,,,,433,46.25655683
-1988-0180-TCD,1988,Insect infestation,Chad,TCD,Middle Africa,Africa,"Western, Central, Eastern, Northeastern prefectures",,,,,,,46.25655683
 1988-0512-THA,1988,Flood,Thailand,THA,South-Eastern Asia,Asia,"Chumphon, Surat Thani, Nakhon Si Thammarat, Phatthalung, Krabi, Songkhla, Yala, Pattani, Ranong, Narathiwat, Satun, Phuket, Trang, Prachuap Khiri Khan provinces",Km2,,,,,664,46.25655683
-1988-0124-TUN,1988,Insect infestation,Tunisia,TUN,Northern Africa,Africa,"Gafsa, Sfax Axis",,,,,,,46.25655683
-1988-0284-TUN,1988,Insect infestation,Tunisia,TUN,Northern Africa,Africa,,,,,,,,46.25655683
 1988-0273-TUR,1988,Landslide,Turkey,TUR,Western Asia,Asia,Catak (Trabzon province),,,,,,64,46.25655683
 1988-0146-TZA,1988,Flood,"Tanzania, United Republic of",TZA,Eastern Africa,Africa,"Morogoro, Kilimanjaro, Iringa regions",Km2,,,,,,46.25655683
 1988-0513-USA,1988,Storm,United States of America (the),USA,Northern America,Americas,Floride,Kph,,,,,,46.25655683
@@ -3901,8 +3827,6 @@
 1990-0698-CHN,1990,Storm,China,CHN,Eastern Asia,Asia,"Qionghai, Wenchang counties",Kph,,,,,2,51.106795
 1990-0093-CHN,1990,Earthquake,China,CHN,Eastern Asia,Asia,"Tian Zhu, Jing Tai, Gu Lang counties (Gansu Province)",Richter,37.001 N,103.863 E,16:07,,1,51.106795
 1990-0099-CHN,1990,Earthquake,China,CHN,Eastern Asia,Asia,Qinghai Province,Richter,35.986 N,100.245 E,,,126,51.106795
-1990-0036-CHN,1990,Mass movement (dry),China,CHN,Eastern Asia,Asia,Yunnan province,,,,,,69,51.106795
-1990-0284-CHN,1990,Mass movement (dry),China,CHN,Eastern Asia,Asia,Wenzhou (Zhejiang province),,,,,,4,51.106795
 1990-0024-CHN,1990,Flood,China,CHN,Eastern Asia,Asia,Hunan province,Km2,,,,,363,51.106795
 1990-0039-CHN,1990,Flood,China,CHN,Eastern Asia,Asia,"Shaanxi, Sichuan provinces",Km2,,,,"Jtalin, Han and Wet Rivers, Hanjiang River",72,51.106795
 1990-0699-CHN,1990,Flood,China,CHN,Eastern Asia,Asia,Shandong province,Km2,,,,,60,51.106795
@@ -3975,7 +3899,6 @@
 1991-0109-BRA,1991,Flood,Brazil,BRA,South America,Americas,"Sao Paulo, Rio de Janeiro",Km2,,,,Tiente and Pinheiros,20,53.27115662
 1991-0478-BRA,1991,Landslide,Brazil,BRA,South America,Americas,"Minas Gerais, Rio de Janeiro",,,,,,24,53.27115662
 1991-0135-BRA,1991,Epidemic,Brazil,BRA,South America,Americas,Northeast,Vaccinated,,,,,196,53.27115662
-1991-0389-BRA,1991,Insect infestation,Brazil,BRA,South America,Americas,Tucurui,,,,,,,53.27115662
 1991-0407-CAN,1991,Epidemic,Canada,CAN,Northern America,Americas,Eastern Canada,Vaccinated,,,,,18,53.27115662
 1991-0212-CHL,1991,Volcanic activity,Chile,CHL,South America,Americas,,,45.54 S,72.58 W,,,,53.27115662
 1991-0136-CHL,1991,Epidemic,Chile,CHL,South America,Americas,,Vaccinated,,,,,1,53.27115662
@@ -4012,7 +3935,6 @@
 1991-0138-ECU,1991,Epidemic,Ecuador,ECU,South America,Americas,"Azuay, Chimborazo, El Oro, Esmeraldas, Guayas, Imbabura, Loja, Los Rios, Pichincha, Arci, Manabi, Canar, Bolivar, Tunguraha",Vaccinated,,,,,343,53.27115662
 1991-0097-EGY,1991,Flood,Egypt,EGY,Northern Africa,Africa,South Sina,Km2,,,,,1,53.27115662
 1991-0295-ESP,1991,Wildfire,Spain,ESP,Southern Europe,Europe,Valence,Km2,,,,,,53.27115662
-1991-0085-ETH,1991,Mass movement (dry),Ethiopia,ETH,Eastern Africa,Africa,Hararghe Province,,,,,,13,53.27115662
 1992-0016-ARG,1992,Flood,Argentina,ARG,South America,Americas,"Minas, Cruz del Eje, San Justo, Punilla, Rio Seco (Cordoba province), Chaco, Corrientes, Santa Fe, Buenos Aires provinces",Km2,,,,,45,54.88464241
 1992-0141-CHN,1992,Storm,China,CHN,Eastern Asia,Asia,"Hunan, Sichuan Provinces",Kph,,,,,109,54.88464241
 1992-0126-CHN,1992,Storm,China,CHN,Eastern Asia,Asia,Guizhou province,Kph,,,,,35,54.88464241
@@ -4057,7 +3979,6 @@
 1992-0207-CHL,1992,Storm,Chile,CHL,South America,Americas,South,Kph,,,,,,54.88464241
 1992-0254-CHN,1992,Storm,China,CHN,Eastern Asia,Asia,"Sichuan, Yunnan provinces",Kph,,,,,,54.88464241
 1992-0256-CHN,1992,Earthquake,China,CHN,Eastern Asia,Asia,Lhasa prefecture (Tibet),Richter,29.41 N,91.10 E,,,,54.88464241
-1992-0300-CHN,1992,Mass movement (dry),China,CHN,Eastern Asia,Asia,Jijiagou (Shanxi province),,,,,,49,54.88464241
 1992-0036-CHN,1992,Flood,China,CHN,Eastern Asia,Asia,"Jiangxi, Fujian, Guangdong, Hunan provinces",Km2,,,,,248,54.88464241
 1992-0216-CHN,1992,Flood,China,CHN,Eastern Asia,Asia,"Yueyang, Dongting and Boyang Lakes (Hunan province)",Km2,,,,Xiangjiang,96,54.88464241
 1992-0217-CHN,1992,Flood,China,CHN,Eastern Asia,Asia,"Jaingxi, Zhejiang, Fujian provinces",Km2,,,,Min,35,54.88464241
@@ -4081,7 +4002,6 @@
 1992-0024-ECU,1992,Flood,Ecuador,ECU,South America,Americas,"Guayas, Manabi, El Oro, Los Rios, Esmeraldas, Tungurahua, Cotopaxi, Loja, Zamora, Chinchipe, Galapagos, Chinchippe.",Km2,,,,,22,54.88464241
 1992-0460-ECU,1992,Epidemic,Ecuador,ECU,South America,Americas,,Vaccinated,,,,,200,54.88464241
 1992-0149-EGY,1992,Earthquake,Egypt,EGY,Northern Africa,Africa,Near Fayoum (Cairo),Richter,29.888 N,31.223 E,,,552,54.88464241
-1992-0548-ETH,1992,Insect infestation,Ethiopia,ETH,Eastern Africa,Africa,Northern coastal plains and highlands Eritrea,,,,,,,54.88464241
 1992-0162-FJI,1992,Storm,Fiji,FJI,Melanesia,Oceania,Viti Levu,Kph,,,,,1,54.88464241
 1992-0251-FRA,1992,Storm,France,FRA,Western Europe,Europe,"Vaucluse, Drome, Ardeche",Kph,,,,,47,54.88464241
 1993-9573-ERI,1993,Drought,Eritrea,ERI,Eastern Africa,Africa,,Km2,,,,,,56.50464564
@@ -4091,7 +4011,6 @@
 1993-0065-FRA,1993,Storm,France,FRA,Western Europe,Europe,South West - Saonne et Loire,Kph,,,,,2,56.50464564
 1993-0211-CHE,1993,Storm,Switzerland,CHE,Western Europe,Europe,,Kph,,,,,2,56.50464564
 1993-0419-AFG,1993,Landslide,Afghanistan,AFG,Southern Asia,Asia,Salang district (Parwan province),,,,,,100,56.50464564
-1993-0494-AFG,1993,Insect infestation,Afghanistan,AFG,Southern Asia,Asia,,,,,,,,56.50464564
 1993-0169-AFG,1993,Landslide,Afghanistan,AFG,Southern Asia,Asia,"Chindawal district (Kabul), Badakhstan province",,,,,,115,56.50464564
 1993-0159-AFG,1993,Storm,Afghanistan,AFG,Southern Asia,Asia,Chah-i-Ab district (Takhar Province),Kph,,,,,10,56.50464564
 1993-0027-ARG,1993,Flood,Argentina,ARG,South America,Americas,"Junin, General Viamonte, Castelli, General Pinto, Las Flores, General Belgrano, Chascomas, 25 de Mayo, Roque Perez, General Villegas (Buenos Aires province)",Km2,,,,Salado,,56.50464564
@@ -4143,7 +4062,6 @@
 1993-0462-CHN,1993,Storm,China,CHN,Eastern Asia,Asia,Hainan province,Kph,,,,,,56.50464564
 1993-0568-CHN,1993,Flood,China,CHN,Eastern Asia,Asia,South,Km2,,,,,1000,56.50464564
 1993-0500-CMR,1993,Epidemic,Cameroon,CMR,Middle Africa,Africa,Far North and North provinces,Vaccinated,,,,,513,56.50464564
-1993-0233-COL,1993,Mass movement (dry),Colombia,COL,South America,Americas,Antioquia Province,,,,,,75,56.50464564
 1993-0490-COL,1993,Earthquake,Colombia,COL,South America,Americas,"Arauca, Puerto Rondon, Puerto Colombia",Richter,6.47,-71.21,,,2,56.50464564
 1993-0106-COL,1993,Volcanic activity,Colombia,COL,South America,Americas,Narino Province,,1.2 N,77.4 W,13:43,,10,56.50464564
 1993-0491-COL,1993,Landslide,Colombia,COL,South America,Americas,Caldas,,,,,,10,56.50464564
@@ -4164,7 +4082,6 @@
 1993-0344-DZA,1993,Landslide,Algeria,DZA,Northern Africa,Africa,Oran,,,,,,15,56.50464564
 1993-0013-ECU,1993,Landslide,Ecuador,ECU,South America,Americas,Ambija (Zamora province),,,,,,250,56.50464564
 1993-0014-ECU,1993,Landslide,Ecuador,ECU,South America,Americas,"Azuay, Canar provinces",,,,,,200,56.50464564
-1993-0345-EGY,1993,Mass movement (dry),Egypt,EGY,Northern Africa,Africa,Mokattam (Cairo),,,,,,34,56.50464564
 1993-0015-ERI,1993,Storm,Eritrea,ERI,Eastern Africa,Africa,"Massawa, Zula",Kph,,,,,3,56.50464564
 1993-0519-ETH,1993,Flood,Ethiopia,ETH,Eastern Africa,Africa,Near Addis Abeba,Km2,,,,,,56.50464564
 1993-0520-ETH,1993,Flood,Ethiopia,ETH,Eastern Africa,Africa,"Gollam, Gonder regions",Km2,,,,,2,56.50464564
@@ -4192,7 +4109,6 @@
 1988-0696-JPN,1988,Flood,Japan,JPN,Eastern Asia,Asia,,Km2,,,,,27,46.25655683
 1988-9522-LAO,1988,Drought,Lao People's Democratic Republic (the),LAO,South-Eastern Asia,Asia,Southern provinces,Km2,,,,,,46.25655683
 1988-9036-LKA,1988,Drought,Sri Lanka,LKA,Southern Asia,Asia,North and East,Km2,,,,,,46.25655683
-1988-0632-MAR,1988,Insect infestation,Morocco,MAR,Northern Africa,Africa,"Guelimine, Errachidia, Ouarzazate, Foum Zguid (Atlas Mts. Region)",,,,,,,46.25655683
 1988-0631-MEX,1988,Storm,Mexico,MEX,Central America,Americas,"Tamaulpas, Veracruz, Chiapas, Hidalgo",Kph,,,,,48,46.25655683
 1988-9181-MEX,1988,Drought,Mexico,MEX,Central America,Americas,"Sinaloa, Nayarit provinces",Km2,,,,,,46.25655683
 1988-9003-NER,1988,Drought,Niger (the),NER,Western Africa,Africa,"Niamey, Maradi, Zinder, Diffa departments",Km2,,,,,,46.25655683
@@ -4218,7 +4134,6 @@
 1989-0283-HKG,1989,Storm,Hong Kong,HKG,Eastern Asia,Asia,"Tsz Wan Shan, Yuen Long, Au Tau, Nam Bin Wai, Ha Tsuen",Kph,,,,,7,48.48936537
 1989-0285-HKG,1989,Storm,Hong Kong,HKG,Eastern Asia,Asia,"Tai O, Lok Ma Chau, Shap Pat Heung",Kph,,,,,2,48.48936537
 1989-0296-HKG,1989,Wildfire,Hong Kong,HKG,Eastern Asia,Asia,Hong Kong,Km2,,,,,,48.48936537
-1989-0575-HND,1989,Mass movement (dry),Honduras,HND,Central America,Americas,,,,,,,10,48.48936537
 1989-0217-HTI,1989,Landslide,Haiti,HTI,Caribbean,Americas,Port-Au-Prince,,,,,,,48.48936537
 1989-0211-HTI,1989,Flood,Haiti,HTI,Caribbean,Americas,La Gonave Isl.,Km2,,,,,,48.48936537
 1989-0214-HTI,1989,Flood,Haiti,HTI,Caribbean,Americas,Cazales,Km2,,,,,,48.48936537
@@ -4228,7 +4143,6 @@
 1989-0026-IDN,1989,Landslide,Indonesia,IDN,South-Eastern Asia,Asia,"Solok, Sawahlunto Sijunjung (Riau province, West Sumatra)",,,,,,6,48.48936537
 1989-0159-IDN,1989,Flood,Indonesia,IDN,South-Eastern Asia,Asia,Madiun Regency (East Java),Km2,,,,,,48.48936537
 1989-0262-IDN,1989,Flood,Indonesia,IDN,South-Eastern Asia,Asia,Ambon (Malucu Isl.),Km2,,,,,18,48.48936537
-1989-0368-IND,1989,Mass movement (dry),India,IND,Southern Asia,Asia,North India,,,,,,45,48.48936537
 1989-0260-IND,1989,Flood,India,IND,Southern Asia,Asia,"Assam, Arunachal Pradesh, Manipur, Mizorem",Km2,,,,,18,48.48936537
 1989-0365-IND,1989,Landslide,India,IND,Southern Asia,Asia,,,,,,,41,48.48936537
 1989-0158-IND,1989,Storm,India,IND,Southern Asia,Asia,"Coastal Orissa, West Bengal",Kph,,,,,43,48.48936537
@@ -4238,7 +4152,6 @@
 1989-0591-IND,1989,Epidemic,India,IND,Southern Asia,Asia,,Vaccinated,,,,,200,48.48936537
 1989-0090-IRN,1989,Earthquake,Iran (Islamic Republic of),IRN,Southern Asia,Asia,"Fars,Yasuj, Kohkiluyeh-Boyer Ahmad provinces",Richter,30.167,50.921,23:38,,100,48.48936537
 1989-0041-IRN,1989,Flood,Iran (Islamic Republic of),IRN,Southern Asia,Asia,Zabol (Balouchestan),Km2,,,,,,48.48936537
-1989-0005-JOR,1989,Insect infestation,Jordan,JOR,Western Asia,Asia,,,,,,,,48.48936537
 1989-0583-JPN,1989,Landslide,Japan,JPN,Eastern Asia,Asia,,,,,,,18,48.48936537
 1989-0161-JPN,1989,Storm,Japan,JPN,Eastern Asia,Asia,Tokyo,Kph,,,,,15,48.48936537
 1989-0457-JPN,1989,Storm,Japan,JPN,Eastern Asia,Asia,,Kph,,,,,,48.48936537
@@ -4457,7 +4370,6 @@
 1991-0188-GHA,1991,Flood,Ghana,GHA,Western Africa,Africa,"Accra, Suhum",Km2,,,,,5,53.27115662
 1991-0469-GHA,1991,Epidemic,Ghana,GHA,Western Africa,Africa,East Gonja,Vaccinated,,,,,20,53.27115662
 1991-0034-GRC,1991,Extreme temperature,Greece,GRC,Southern Europe,Europe,,°C,,,,,5,53.27115662
-1991-0046-GTM,1991,Mass movement (dry),Guatemala,GTM,Central America,Americas,Quetzaltenango province,,,,,,23,53.27115662
 1991-0671-GTM,1991,Epidemic,Guatemala,GTM,Central America,Americas,,Vaccinated,,,,,180,53.27115662
 1991-0220-HKG,1991,Storm,Hong Kong,HKG,Eastern Asia,Asia,,Kph,,,,,22,53.27115662
 1991-0124-IDN,1991,Earthquake,Indonesia,IDN,South-Eastern Asia,Asia,Gorontalo area (Minahassa Peninsula),Richter,1.196 N,122.787 E,12:18,,,53.27115662
@@ -4698,7 +4610,6 @@
 1993-0208-IND,1993,Landslide,India,IND,Southern Asia,Asia,Bombay,,,,,,20,56.50464564
 1993-0085-IND,1993,Storm,India,IND,Southern Asia,Asia,"Tamil Nadu, Karaikal region (Pondicherry)",Kph,,,,,61,56.50464564
 1993-0138-IND,1993,Storm,India,IND,Southern Asia,Asia,"Near Kandi (Murshidabad district, West Bengal)",Kph,,,,,125,56.50464564
-1993-0569-IND,1993,Insect infestation,India,IND,Southern Asia,Asia,"Gujarat, Rajasthan states",,,,,,,56.50464564
 1993-9472-IND,1993,Drought,India,IND,Southern Asia,Asia,"Bihar, Orissa, Andhra Pradesh, Maharashtra, Gujarat, Madhya Prasdesh, Uttar Pradesh, Karnataka",Km2,,,,,,56.50464564
 1993-0042-IND,1993,Flood,India,IND,Southern Asia,Asia,"Punjab, Haryana, Himachal Pradesh, Gujarat, Jammu and Kashmir, Rajasthan, Madhya Pradesh, Chandigarh, Assam states",Km2,,,,,827,56.50464564
 1993-0170-IRL,1993,Flood,Ireland,IRL,Northern Europe,Europe,Dublin,Km2,,,,,3,56.50464564
@@ -4737,7 +4648,6 @@
 1993-0021-MNG,1993,Storm,Mongolia,MNG,Eastern Asia,Asia,"Zavkhan, Gobi-Altai, Bayankhong, Umno-Gobi Provinces",Kph,,,,,7,56.50464564
 1993-9511-MRT,1993,Drought,Mauritania,MRT,Western Africa,Africa,"E.Trarza, N. Brakna, Gorgol, N.W. Assaba, Tagnat",Km2,,,,,,56.50464564
 1993-0195-MTQ,1993,Storm,Martinique,MTQ,Caribbean,Americas,,Kph,,,,,2,56.50464564
-1993-0227-MYS,1993,Mass movement (dry),Malaysia,MYS,South-Eastern Asia,Asia,Kuala Lumpur,,,,,,72,56.50464564
 1993-0234-MYS,1993,Flood,Malaysia,MYS,South-Eastern Asia,Asia,"Kelantan, Trengganu, Pahang, Perak, Johore and Sabah states",Km2,,,,Padas,30,56.50464564
 1993-0053-NIC,1993,Storm,Nicaragua,NIC,Central America,Americas,"Rio Coco area, Prinzapolka, Bonanza, Managua",Kph,,,,,37,56.50464564
 1993-0236-NLD,1993,Flood,Netherlands (the),NLD,Western Europe,Europe,Limburg and Gelderland Provinces,Km2,,,,Muese,1,56.50464564
@@ -4748,7 +4658,6 @@
 1993-0018-PAK,1993,Landslide,Pakistan,PAK,Southern Asia,Asia,"Gultar, Thalestal (Near Chota Deeosai, Skardu district)",,,,,,22,56.50464564
 1993-0304-PAK,1993,Storm,Pakistan,PAK,Southern Asia,Asia,"Keti Bandar, Hyderabad",Kph,,,,,609,56.50464564
 1993-0041-PAK,1993,Flood,Pakistan,PAK,Southern Asia,Asia,"Narowal, Sialkot, Kasur, Lahore, Faisalabad, Multan, Khanewal, Lodhran, Muzaffargarh, Rajanpur, Sheikhupura, Rahimyarkhan, Jhang, Bhawalnagar districts (Punjab province)",Km2,,,,,15,56.50464564
-1993-0575-PAK,1993,Insect infestation,Pakistan,PAK,Southern Asia,Asia,"Tharparker, Nara, Cholistan desert",,,,,,,56.50464564
 1993-0131-PER,1993,Flood,Peru,PER,South America,Americas,Amazon region,Km2,,,,,80,56.50464564
 1993-0008-PHL,1993,Volcanic activity,Philippines (the),PHL,South-Eastern Asia,Asia,"Ligao, Camalig, Guinobatan, Daraga, Legaspi (Albay province)",,13.3 N,123.7 E,,,79,56.50464564
 1993-0113-PHL,1993,Flood,Philippines (the),PHL,South-Eastern Asia,Asia,"Agusan, Surigao, Davao del Norte provinces (Mindanao Island)",Km2,,,,Agusan River,23,56.50464564
@@ -4810,7 +4719,6 @@
 1989-0370-TWN,1989,Storm,Taiwan (Province of China),TWN,Eastern Asia,Asia,,Kph,,,,,13,48.48936537
 1989-0178-VNM,1989,Storm,Viet Nam,VNM,South-Eastern Asia,Asia,Da Nang city (Quang Nam Danang province),Kph,,,,,751,48.48936537
 1989-9276-TGO,1989,Drought,Togo,TGO,Western Africa,Africa,"Tone, Oti prectures",Km2,,,,,,48.48936537
-1989-0035-SUN,1989,Mass movement (dry),Soviet Union,SUN,Russian Federation,Europe,Checheno-Ingush (Russian Federation),,,,,,,48.48936537
 1989-0572-SUN,1989,Flood,Soviet Union,SUN,Russian Federation,Europe,Far East (Russian Federation),Km2,,,,"Ussuri, Malinovka rivers",17,48.48936537
 1989-0151-SUN,1989,Landslide,Soviet Union,SUN,Russian Federation,Europe,Adzharia (Georgia),,,,,,46,48.48936537
 1989-0131-THA,1989,Storm,Thailand,THA,South-Eastern Asia,Asia,"Chumphon, Nakkhon Si Thammarat, Phetchaburi, Prachuap Khiri Khan, Ranong, Songkhla, Surat Thani provinces",Kph,,,,,458,48.48936537
@@ -4925,7 +4833,6 @@
 1991-0500-USA,1991,Storm,United States of America (the),USA,Northern America,Americas,"Texas, Kansas, Iowa, Louisiane, Nebraska, Missouri, Mississippi, Oklahoma, Alabama, Georgie, Arkansas",Kph,,,,,33,53.27115662
 1991-0055-SUN,1991,Earthquake,Soviet Union,SUN,Russian Federation,Europe,Kamchatka Peninsula (Siberia) (Russia),Richter,60.7,167.2,,,,53.27115662
 1991-0498-SUN,1991,Earthquake,Soviet Union,SUN,Russian Federation,Europe,Kabodyen district (Tajikistan),Richter,37.457,68.273,,,1,53.27115662
-1991-0155-SUN,1991,Mass movement (dry),Soviet Union,SUN,Russian Federation,Europe,"Near Angren (Uzbekistan), Kyrgystan",,,,,,50,53.27115662
 1991-0522-SUN,1991,Flood,Soviet Union,SUN,Russian Federation,Europe,Ulan-Ude region (Buryatia) (Russian Federation),Km2,,,,"Barguzin, Garga",2,53.27115662
 1991-0161-SUN,1991,Flood,Soviet Union,SUN,Russian Federation,Europe,Volgograd Region (Russian Federation),Km2,,,,,,53.27115662
 1991-0286-TCD,1991,Flood,Chad,TCD,Middle Africa,Africa,N'djamena,Km2,,,,,39,53.27115662
@@ -4995,10 +4902,8 @@
 1992-0495-THA,1992,Storm,Thailand,THA,South-Eastern Asia,Asia,Sisaket province (North),Kph,,,,,,54.88464241
 1992-0201-THA,1992,Storm,Thailand,THA,South-Eastern Asia,Asia,,Kph,,,,,,54.88464241
 1992-0496-THA,1992,Storm,Thailand,THA,South-Eastern Asia,Asia,"Surat Thani, Krabi, Phangnga, Nakhon Si Thammarat provinces",Kph,,,,,3,54.88464241
-1992-0117-TJK,1992,Mass movement (dry),Tajikistan,TJK,Central Asia,Asia,,,,,,,12,54.88464241
 1992-0199-TJK,1992,Landslide,Tajikistan,TJK,Central Asia,Asia,Kandak,,,,,,243,54.88464241
 1992-0233-TJK,1992,Flood,Tajikistan,TJK,Central Asia,Asia,,Km2,,,,,1346,54.88464241
-1992-0010-TUR,1992,Mass movement (dry),Turkey,TUR,Western Asia,Asia,"Sirnak, Siirt, Elazig, Batman, Bingol, Diyarbakir, Hakkari, Tunceli provinces",,,,,,261,54.88464241
 1992-0357-TWN,1992,Storm,Taiwan (Province of China),TWN,Eastern Asia,Asia,,Kph,,,,,8,54.88464241
 1992-0424-UGA,1992,Epidemic,Uganda,UGA,Eastern Africa,Africa,,Vaccinated,,,,,50,54.88464241
 1992-0477-UKR,1992,Storm,Ukraine,UKR,Eastern Europe,Europe,Crimea,Kph,,,,,,54.88464241
@@ -5034,7 +4939,6 @@
 1992-0208-USA,1992,Storm,United States of America (the),USA,Northern America,Americas,"Texas, Okhahoma, Arkansas, Louisiana",Kph,,,,,,54.88464241
 1992-0277-USA,1992,Storm,United States of America (the),USA,Northern America,Americas,California,Kph,,,,,,54.88464241
 1992-0278-USA,1992,Storm,United States of America (the),USA,Northern America,Americas,"New Jersey, New York, Pennsylvania, Massachusetts",Kph,,,,,12,54.88464241
-1992-0497-UZB,1992,Mass movement (dry),Uzbekistan,UZB,Central Asia,Asia,,,,,,,1,54.88464241
 1992-0164-VCT,1992,Flood,Saint Vincent and the Grenadines,VCT,Caribbean,Americas,Coastal areas,Km2,,,,,3,54.88464241
 1992-0458-VEN,1992,Epidemic,Venezuela (Bolivarian Republic of),VEN,South America,Americas,,Vaccinated,,,,,32,54.88464241
 1992-0145-VNM,1992,Flood,Viet Nam,VNM,South-Eastern Asia,Asia,"Quang Binh, Quang Tri provinces",Km2,,,,,1,54.88464241
@@ -5247,7 +5151,6 @@
 1995-0054-COL,1995,Earthquake,Colombia,COL,South America,Americas,Pasto area,Richter,1.12 N,77.17 W,18:23,,8,59.60449489
 1995-0155-COL,1995,Flood,Colombia,COL,South America,Americas,"Fresdonia, Toledo",Km2,,,,,69,59.60449489
 1995-0122-COL,1995,Landslide,Colombia,COL,South America,Americas,"Santa Rose de Cabal, Dosquebradas",,,,,,17,59.60449489
-1995-0090-COL,1995,Insect infestation,Colombia,COL,South America,Americas,Manizales,,,,,,,59.60449489
 1995-0052-CPV,1995,Volcanic activity,Cabo Verde,CPV,Western Africa,Africa,Fogo Island,,,,,,,59.60449489
 1995-0309-CRI,1995,Epidemic,Costa Rica,CRI,Central America,Americas,,Vaccinated,,,,,,59.60449489
 1995-0215-CUB,1995,Flood,Cuba,CUB,Caribbean,Americas,"Pinar Del Rio, Sancti Spiritus, Santa Clara, Ciego de Avila, Holguin, Villa Clara",Km2,,,,,,59.60449489
@@ -5463,7 +5366,6 @@
 1998-0115-CHN,1998,Storm,China,CHN,Eastern Asia,Asia,"Jianxi, Hubei",Kph,,,,,62,63.76045524
 1998-0142-CMR,1998,Epidemic,Cameroon,CMR,Middle Africa,Africa,Northern province (near Tchad border),Vaccinated,,,,,126,63.76045524
 1998-0341-CMR,1998,Epidemic,Cameroon,CMR,Middle Africa,Africa,"Kousseri and urban Maroua (Extreme Nord province), Garoua (Nord province) and Douala (Littoral province)",Vaccinated,,,,,113,63.76045524
-1998-0238-CMR,1998,Insect infestation,Cameroon,CMR,Middle Africa,Africa,Northern,,,,,,,63.76045524
 1998-0122-CRI,1998,Volcanic activity,Costa Rica,CRI,Central America,Americas,,,10.50 N,84.70 E,,,,63.76045524
 1998-0375-CRI,1998,Storm,Costa Rica,CRI,Central America,Americas,,Kph,,,,,8,63.76045524
 1998-0241-CYP,1998,Extreme temperature,Cyprus,CYP,Western Asia,Asia,,°C,,,,,52,63.76045524
@@ -5608,7 +5510,6 @@
 1995-0293-EGY,1995,Earthquake,Egypt,EGY,Northern Africa,Africa,Cairo,Richter,28.8 N,34.8 E,6:15,,10,59.60449489
 1995-0354-EGY,1995,Flood,Egypt,EGY,Northern Africa,Africa,El Minja,Km2,,,,,7,59.60449489
 1995-0355-EGY,1995,Extreme temperature,Egypt,EGY,Northern Africa,Africa,Nord,°C,,,,,32,59.60449489
-1995-0409-ERI,1995,Insect infestation,Eritrea,ERI,Eastern Africa,Africa,,,,,,,,59.60449489
 1995-0353-ESP,1995,Extreme temperature,Spain,ESP,Southern Europe,Europe,Rioja,°C,,,,,,59.60449489
 1995-0157-ESP,1995,Extreme temperature,Spain,ESP,Southern Europe,Europe,Andalusia,°C,,,,,30,59.60449489
 1995-0103-ETH,1995,Flood,Ethiopia,ETH,Eastern Africa,Africa,"Kelafo, Mustahil, Ferfer, Burukur (Eastern Ogaden region)",Km2,,,,"Webi Shebelle, Wedeb",27,59.60449489
@@ -5701,7 +5602,6 @@
 1995-0187-PHL,1995,Storm,Philippines (the),PHL,South-Eastern Asia,Asia,"Regions I, II, III, IV, V, Metro Manilla",Kph,,,,,6,59.60449489
 1995-0271-PHL,1995,Storm,Philippines (the),PHL,South-Eastern Asia,Asia,"Luzon, Visayas, Calauag",Kph,,,,,882,59.60449489
 1995-0161-PHL,1995,Flood,Philippines (the),PHL,South-Eastern Asia,Asia,Pampanga Province,Km2,,,,,,59.60449489
-1995-0163-PHL,1995,Insect infestation,Philippines (the),PHL,South-Eastern Asia,Asia,Floridablanca Pampanga,,,,,,,59.60449489
 1995-0282-PHL,1995,Flood,Philippines (the),PHL,South-Eastern Asia,Asia,Negros Occidental,Km2,,,,,18,59.60449489
 1995-0290-PHL,1995,Flood,Philippines (the),PHL,South-Eastern Asia,Asia,"Albay, Catanduanes, Sorsogon",Km2,,,,,17,59.60449489
 1995-0291-PHL,1995,Flood,Philippines (the),PHL,South-Eastern Asia,Asia,Davao City,Km2,,,,,12,59.60449489
@@ -5950,7 +5850,6 @@
 1997-0522-MDA,1997,Flood,Moldova (the Republic of),MDA,Eastern Europe,Europe,,Km2,,,,,9,62.7858352
 1997-0013-MDG,1997,Storm,Madagascar,MDG,Eastern Africa,Africa,"Vangaidrano, Vohipeno, Farangana, Vondrozo, Midongy, Befotaka",Kph,,,,,140,62.7858352
 1997-0020-MDG,1997,Storm,Madagascar,MDG,Eastern Africa,Africa,"Antalaha, Andapa, Maroantsetra",Kph,,,,,34,62.7858352
-1997-0202-MDG,1997,Insect infestation,Madagascar,MDG,Eastern Africa,Africa,South & Southwest,,,,,,,62.7858352
 1997-0071-MEX,1997,Earthquake,Mexico,MEX,Central America,Americas,Arteaga area (Michoacan),Richter,17.31 N,101.16 W,14:28,,1,62.7858352
 1997-0116-MEX,1997,Earthquake,Mexico,MEX,Central America,Americas,"Arteaga, Patzcuaro, Michoacan",Richter,18 N,102.5 W,1:50,,,62.7858352
 1997-0339-MEX,1997,Volcanic activity,Mexico,MEX,Central America,Americas,Popocatepelt,,19.02 N,98.38 W,,,20,62.7858352
@@ -6180,7 +6079,6 @@
 1995-0148-THA,1995,Earthquake,Thailand,THA,South-Eastern Asia,Asia,ChiangRai,Richter,21.966 N,99.196 E,4:47,,,59.60449489
 1995-0198-THA,1995,Flood,Thailand,THA,South-Eastern Asia,Asia,"Phayao, Pichit, Pitsanuloke, Nakhon Sawan",Km2,,,,"Nam, Chao Phraya",231,59.60449489
 1995-0167-THA,1995,Storm,Thailand,THA,South-Eastern Asia,Asia,Bangkok,Kph,,,,,27,59.60449489
-1995-0121-TJK,1995,Insect infestation,Tajikistan,TJK,Central Asia,Asia,Southern region,,,,,,,59.60449489
 1995-0233-TUR,1995,Earthquake,Turkey,TUR,Western Asia,Asia,"Dinar, Evciler",Richter,38.0 N,30.1 E,17:57,,94,59.60449489
 1995-0072-TUR,1995,Flood,Turkey,TUR,Western Asia,Asia,Bitlis (Eastern Turkey),Km2,,,,,,59.60449489
 1995-0273-TUR,1995,Flood,Turkey,TUR,Western Asia,Asia,"Izmir, Antalaya, Isparta",Km2,,,,,63,59.60449489
@@ -6622,7 +6520,6 @@
 2000-0214-AUS,2000,Storm,Australia,AUS,Australia and New Zealand,Oceania,Townsville district (Queensland province),Kph,,,,,,67.35575898
 2000-0843-AUS,2000,Storm,Australia,AUS,Australia and New Zealand,Oceania,"Bidyadanga area (Broome district, Western Australia province)",Kph,,,,,,67.35575898
 2000-0659-AUS,2000,Wildfire,Australia,AUS,Australia and New Zealand,Oceania,"Ashfield (A), Auburn (C), Bankstown (C), Botany Bay (C), Burwood (A), Canada Bay (A), Canterbury (C), Holroyd (C), Hunters Hill (A), Hurstville (C), Kogarah (C), Ku-ring-gai (A), Lane Cove (A), Leichhardt (A), Manly (A), Marrickville (A), Mosman (A), North Sydney (A), Parramatta (C), Pittwater (A), Randwick (C), Rockdale (C), Ryde (C), Strathfield (A), Sutherland Shire (A), Sydney (C), Warringah (A), Waverley (A), Willoughby (C), Woollahra (A) districts (New South Wales province)",Km2,,,,,,67.35575898
-2000-0249-AUS,2000,Insect infestation,Australia,AUS,Australia and New Zealand,Oceania,"South Australia, New South Wales, Queensland",,,,,,,67.35575898
 2000-0155-AUT,2000,Landslide,Austria,AUT,Western Europe,Europe,"Kitzsteinhorn (Zell am See, Salzburg)",,,,,,13,67.35575898
 2000-0769-AZE,2000,Earthquake,Azerbaijan,AZE,Western Asia,Asia,"Absheron, Baku, Sumgayit districts (Absheron province)",Richter,40.245,49.946,22:10,,31,67.35575898
 2000-0834-AZE,2000,Landslide,Azerbaijan,AZE,Western Asia,Asia,Dashkesan city (Dashkesan district; Ganja-Gazakh province),,,,,,11,67.35575898
@@ -7220,9 +7117,7 @@
 2000-0307-PAK,2000,Epidemic,Pakistan,PAK,Southern Asia,Asia,Punjab province,Vaccinated,,,,,4,67.35575898
 2000-0627-PAN,2000,Flood,Panama,PAN,Central America,Americas,Chiriqui province,Km2,,,,,1,67.35575898
 2000-0586-PER,2000,Landslide,Peru,PER,South America,Americas,"Arma village (La Convenci?n district, Cusco province)",,,,,,11,67.35575898
-2000-0403-PER,2000,Insect infestation,Peru,PER,South America,Americas,"Cajamarca, Lambayeque",,,,,,,67.35575898
 2000-0414-PHL,2000,Landslide,Philippines (the),PHL,South-Eastern Asia,Asia,Metropolitan Manila district (National Capital region (NCR) province),,,,,,287,67.35575898
-2000-0763-PHL,2000,Mass movement (dry),Philippines (the),PHL,South-Eastern Asia,Asia,"Apayao, Kalinga districts (Cordillera Administrative region (CAR) province)",,,,,,11,67.35575898
 2000-0089-PHL,2000,Volcanic activity,Philippines (the),PHL,South-Eastern Asia,Asia,"Legazpi City area (Albay district, Region V (Bicol region) province)",,13.257,123.685,,,,67.35575898
 2000-0066-PHL,2000,Flood,Philippines (the),PHL,South-Eastern Asia,Asia,Tawi-Tawi district (ARMM province),Km2,,,,,,67.35575898
 2000-0396-PHL,2000,Storm,Philippines (the),PHL,South-Eastern Asia,Asia,National Capital region (NCR) province,Kph,,,,,11,67.35575898
@@ -7626,7 +7521,6 @@
 2001-0419-CHN,2001,Storm,China,CHN,Eastern Asia,Asia,Guangdong Sheng province,Kph,,,,,,69.25933995
 2001-0475-CHN,2001,Storm,China,CHN,Eastern Asia,Asia,"Zhaotun borough (Qinpu Qu area, Name Unknown (13243) district, Shanghai Shi province), Huangdu, Anting borough (Jiading Qu area, Shanghai district, Shanghai Shi province)",Kph,,,,,,69.25933995
 2001-0796-CHN,2001,Storm,China,CHN,Eastern Asia,Asia,"Guangdong Sheng, Hainan Sheng, Guangxi Zhuangzu Zizhiqu provinces",Kph,,,,,4,69.25933995
-2001-0353-CHN,2001,Insect infestation,China,CHN,Eastern Asia,Asia,From Hainan to Xinjiang provinces,,,,,,,69.25933995
 2001-9149-CHN,2001,Drought,China,CHN,Eastern Asia,Asia,Nei Mongol Zizhiqu province,Km2,,,,,,69.25933995
 2001-9218-CHN,2001,Drought,China,CHN,Eastern Asia,Asia,"Sichuan Sheng, Yunnan Sheng provinces",Km2,,,,,,69.25933995
 2001-0305-CHN,2001,Flood,China,CHN,Eastern Asia,Asia,Guangdong Sheng province,Km2,,,,,11,69.25933995
@@ -7799,7 +7693,6 @@
 2002-0540-DZA,2002,Flood,Algeria,DZA,Northern Africa,Africa,"Ain Zerga district (Tebessa province), Ouled Aouf, Taxlent districts (Batna province), Telaghma district (Mila province), Dahouara district (Guelma province), Oum El Bouaghi, Khenchela, Souk-Ahras, Medea, Sidi Bel Abbes, Annaba provinces",Km2,,,,Oued El Hadjama,29,70.35781897
 2002-0648-DZA,2002,Flood,Algeria,DZA,Northern Africa,Africa,"Hamma, Boutaleb districts (Setif province), Batna, Biskra provinces",Km2,,,,,13,70.35781897
 2002-0752-DZA,2002,Flood,Algeria,DZA,Northern Africa,Africa,"Bejaia, Tizi Ouzou provinces",Km2,,,,,6,70.35781897
-2002-0437-ECU,2002,Mass movement (dry),Ecuador,ECU,South America,Americas,"Santiago De Mendez municipality (Santiago district, Morona Santiago province)",,,,,,60,70.35781897
 2002-0693-ECU,2002,Volcanic activity,Ecuador,ECU,South America,Americas,"Pedro Mancayo, Cayambe, Quito, Ruminahui, Mejia districts (Pichincha province), Gonzalo Pizarro district (Sucumbios province), El Chaco, Quijos districts (Napo province)",,,,9:00,,,70.35781897
 2002-0846-ECU,2002,Volcanic activity,Ecuador,ECU,South America,Americas,Banos de Angua Santa district (Tungurahua province),,-1.467,-78.442,,,,70.35781897
 2002-0503-ECU,2002,Epidemic,Ecuador,ECU,South America,Americas,Galapos Isl.,Vaccinated,,,,,,70.35781897
@@ -8008,7 +7901,6 @@
 2001-0404-RUS,2001,Extreme temperature,Russian Federation (the),RUS,Eastern Europe,Europe,"Moskva, Moskovskaya Oblast provinces",°C,,,,,276,69.25933995
 2001-0575-RUS,2001,Wildfire,Russian Federation (the),RUS,Eastern Europe,Europe,Khabarovskiy Kray province,Km2,,,,,,69.25933995
 2001-0747-RUS,2001,Wildfire,Russian Federation (the),RUS,Eastern Europe,Europe,"Khabarovskiy Kray, Tyva Rep., Khakasiya Rep., Chitinskaya Oblast, Aginskiy Buryatskiy A. Okrug, Krasnoyarskiy Kray provinces",Km2,,,,,,69.25933995
-2001-0352-RUS,2001,Insect infestation,Russian Federation (the),RUS,Eastern Europe,Europe,Dagestan,,,,,,,69.25933995
 2001-0541-RWA,2001,Flood,Rwanda,RWA,Eastern Africa,Africa,Nyaruguru district (South/Amajyepfo province),Km2,,,,,10,69.25933995
 2001-0672-RWA,2001,Flood,Rwanda,RWA,Eastern Africa,Africa,"West/Iburengerazuba, North/Amajyaruguru, South/Amajyepfo provinces",Km2,,,,,2,69.25933995
 2001-0125-SAU,2001,Epidemic,Saudi Arabia,SAU,Western Asia,Asia,,Vaccinated,,,,,35,69.25933995
@@ -8765,14 +8657,12 @@
 2004-0091-AUS,2004,Flood,Australia,AUS,Australia and New Zealand,Oceania,"Mount Isa, Longreach, Rockhampton, Townsville, Barcoo, Diamantina, Paroo districts (Queensland province), Tamworth Regional, Moree Plains districts (New South Wales province)",Km2,,,,"Leichhardt, Gilliat, Flinders, Thomson, Cooper, Barcoo, Balonne, Weir, Bulloo, Nicholson, Gregory, Gilliat Channels, Barwon, Paroo, Peel, Mehi, Gwydir, Tully, Herbert, Barron",,73.88141244
 2004-0537-AUS,2004,Flood,Australia,AUS,Australia and New Zealand,Oceania,"Repton, Urunga villages (Bellingen district, New South Wales province), Coffs Harbour district (New South Wales province)",Km2,,,,Bellingen river,,73.88141244
 2004-0662-AUS,2004,Flood,Australia,AUS,Australia and New Zealand,Oceania,"Eidsvold village (North Burnett district, Queensland province), Wee Waa village (Narrabri district, New South Wales province), Weemelah, Mungindi villages (Moree Plains district, New South Wales province), Mullumbimby, Billinudgel villages (Byron district, New South Wales province), Orange New South Wales",Km2,,,,Tributaries of Darling river,3,73.88141244
-2004-0432-AUS,2004,Insect infestation,Australia,AUS,Australia and New Zealand,Oceania,NSW,,,,,,,73.88141244
 2004-0400-AUS,2004,Storm,Australia,AUS,Australia and New Zealand,Oceania,"Victoria, New South Wales provinces",Kph,,,,,,73.88141244
 2004-0671-BDI,2004,Earthquake,Burundi,BDI,Eastern Africa,Africa,"Ruyaga village (Rugombo district, Cibitoke province)",Richter,-3.393,29.558,,,3,73.88141244
 2004-0111-BDI,2004,Flood,Burundi,BDI,Eastern Africa,Africa,Rugazi district (Bubanza province),Km2,,,,,,73.88141244
 2004-0006-BDI,2004,Storm,Burundi,BDI,Eastern Africa,Africa,Mpanda district (Bubanza province),Kph,,,,,,73.88141244
 2004-0105-BDI,2004,Storm,Burundi,BDI,Eastern Africa,Africa,Kinama district (Bujumbura Mairie province),Kph,,,,,,73.88141244
 2004-0110-BFA,2004,Epidemic,Burkina Faso,BFA,Western Africa,Africa,"Diébougou, Barsalogho, Zabre",Vaccinated,,,,,527,73.88141244
-2004-0392-BFA,2004,Insect infestation,Burkina Faso,BFA,Western Africa,Africa,,,,,,,,73.88141244
 2004-0166-BGD,2004,Storm,Bangladesh,BGD,Southern Asia,Asia,"Mymensingh, Netrakona districts (Dhaka province)",Kph,,,,,76,73.88141244
 2004-0678-BGD,2004,Storm,Bangladesh,BGD,Southern Asia,Asia,Sylhet province,Kph,,,,,10,73.88141244
 2004-0659-BGD,2004,Earthquake,Bangladesh,BGD,Southern Asia,Asia,"Barisal, Chittagong, Khulna provinces",Richter,3.295,95.982,,,2,73.88141244
@@ -8799,7 +8689,6 @@
 2004-0522-CHN,2004,Earthquake,China,CHN,Eastern Asia,Asia,Baoshan district (Yunnan Sheng province),Richter,25.073,99.169,,,,73.88141244
 2004-0571-CHN,2004,Earthquake,China,CHN,Eastern Asia,Asia,Gansu Sheng province,Richter,34.682,103.781,,,,73.88141244
 2004-0680-CHN,2004,Earthquake,China,CHN,Eastern Asia,Asia,"Delingha area (Haixi Mongol and Tibetan district, Qinghai Sheng province)",Richter,37.506,96.758,,,,73.88141244
-2004-0619-CHN,2004,Mass movement (dry),China,CHN,Eastern Asia,Asia,"Zuojiaying village (Liupanshui Shi area, Liupanshui district, Guizhou Sheng province)",,,,,,44,73.88141244
 2004-0303-CHN,2004,Flood,China,CHN,Eastern Asia,Asia,"Luodian, Guiding areas (Qiannan Buyei and Miao district, Guizhou Sheng province), Qiandongnan Miao and Dong district (Guizhou Sheng province)",Km2,,,,,3,73.88141244
 2004-0287-CHN,2004,Flood,China,CHN,Eastern Asia,Asia,"Shuicheng Xian area (Liupanshui district, Guizhou Sheng province) Fenggang Xian area (Zunyi district, Guizhou Sheng province)",Km2,,,,,5,73.88141244
 2004-0299-CHN,2004,Flood,China,CHN,Eastern Asia,Asia,Guizhou Sheng province,Km2,,,,Yin Jiang river,,73.88141244
@@ -8810,7 +8699,6 @@
 2004-0048-CMR,2004,Epidemic,Cameroon,CMR,Middle Africa,Africa,"Douala, Mbouda, Kousséri, Foumbot, Littoral and West regions",Vaccinated,,,,,46,73.88141244
 2004-0426-COL,2004,Earthquake,Colombia,COL,South America,Americas,Sotara district (Cauca province),Richter,2.265,-76.595,2:06,,1,73.88141244
 2004-0575-COL,2004,Earthquake,Colombia,COL,South America,Americas,"Litoral de San Juan, Litoral de San Juan (is.), Bajo Baudo (is.), Bajo Baudo (pizzaro) districts (Choco province), Cali, Buenaventua, Buenaventura (is.), El Cerrito, Restrepo, Zarzal, Bugalagrande, Calima (darien), Vijes districts (Valle del Cauca province)",Richter,4.695,-77.508,4:06,,,73.88141244
-2004-0392-CPV,2004,Insect infestation,Cabo Verde,CPV,Western Africa,Africa,,,,,,,,73.88141244
 2004-0415-CUB,2004,Storm,Cuba,CUB,Caribbean,Americas,"La Habana, Pinar del Rio, Cienfuegos, Ciudad De La Habana, Isla De La Juventud provinces",Kph,,,,,4,73.88141244
 2004-9332-CUB,2004,Drought,Cuba,CUB,Caribbean,Americas,"Holguin, Las Tunas, Camaguey, La Habane provinces",Km2,,,,,,73.88141244
 2004-0462-CYM,2004,Storm,Cayman Islands (the),CYM,Caribbean,Americas,Grand Cayman province,Kph,,,,,2,73.88141244
@@ -8833,7 +8721,6 @@
 2004-0738-GIN,2004,Wildfire,Guinea,GIN,Western Africa,Africa,"Tamagali city (Mamou district, Mamou province)",Km2,,,,,,73.88141244
 2004-0437-GIN,2004,Epidemic,Guinea,GIN,Western Africa,Africa,"Kindia, Conakry, Siguiri, Mandiana, Boffa, Coyah, Kaloum, Matam, Matoto, Ratoma",Vaccinated,,,,,100,73.88141244
 2004-0582-GLP,2004,Earthquake,Guadeloupe,GLP,Caribbean,Americas,"Basse-Terre, Terre-de-Bas, Saintes Isl.",Richter,15.679,-61.706,,,1,73.88141244
-2004-0392-GMB,2004,Insect infestation,Gambia (the),GMB,Western Africa,Africa,,,,,,,,73.88141244
 2004-0494-GNB,2004,Flood,Guinea-Bissau,GNB,Western Africa,Africa,"Bafata, Bambadinca districts (Bafata province), Gabu district (Gabu province)",Km2,,,,,3,73.88141244
 2004-0736-GNB,2004,Epidemic,Guinea-Bissau,GNB,Western Africa,Africa,Bijagos archipelago,Vaccinated,,,,,3,73.88141244
 2004-0702-GNQ,2004,Epidemic,Equatorial Guinea,GNQ,Middle Africa,Africa,"Bata, Malabo",Vaccinated,,,,,15,73.88141244
@@ -9194,14 +9081,11 @@
 2004-0652-LKA,2004,Flood,Sri Lanka,LKA,Southern Asia,Asia,"Kilinochchi, Jaffna, Vavuniya, Mullattivu districts (North province), Matara district (Southern province), North Central, Eastern provinces",Km2,,,,Mahaweli,6,73.88141244
 2004-0377-LKA,2004,Epidemic,Sri Lanka,LKA,Southern Asia,Asia,"Columbo, Kandy, Gampaha, Kalutara, Kurunegala",Vaccinated,,,,,88,73.88141244
 2004-0073-MAR,2004,Earthquake,Morocco,MAR,Northern Africa,Africa,"Tamassint village (Imrabten area, Bni Ouriagh sub-district, Al Hoceima district, Taza - Al Hoceima - Taounate province), Ajdir village (Ait Youssef Ouali area, Bni Ouriagh sub-district, Al Hoceima district, Taza - Al Hoceima - Taounate province), Ait Kamra, Bni Abdallah areas (Bni Ouriagh sub-district, Al Hoceima district, Taza - Al Hoceima - Taounate province), Imzouren sub-district (Al Hoceima district, Taza - Al Hoceima - Taounate province)",Richter,35.142,-3.997,2:27,,628,73.88141244
-2004-0392-MAR,2004,Insect infestation,Morocco,MAR,Northern Africa,Africa,,,,,,,,73.88141244
 2004-0259-MEX,2004,Flood,Mexico,MEX,Central America,Americas,Cozumel district (Quintana Roo province),Km2,,,,,1,73.88141244
 2004-0601-MEX,2004,Extreme temperature,Mexico,MEX,Central America,Americas,Chihuahua province,°C,,,,,14,73.88141244
 2004-0252-MKD,2004,Flood,Macedonia (the former Yugoslav Republic of),MKD,Southern Europe,Europe,"Jegunovce, Dzepciste districts (Tetovo province), Strumica district (Strumica province), Gevgelija, Bogdanci districts (Gevgelija province) Kocani district (Kocani province)",Km2,,,,"Pena, Vardar, Anska Reka, Trkajna, Turija",,73.88141244
 2004-0333-MKD,2004,Extreme temperature,Macedonia (the former Yugoslav Republic of),MKD,Southern Europe,Europe,"Berovo, Bitola, Brod, Debar, Delcevo, Demir Hisar, Gevgelija, Gostivar, Kavadarci, Kicevo, Kocani, Kratovo, Kriva Palanka, Krusevo, Kumanovo, Negotino, Ohrid, Prilep, Probistip, Radovic, Resen, Skopje, Stip, Struga, Strumica, Sveti Nikole, Tetovo, Valandovo, Veles, Vinica provinces",°C,,,,,15,73.88141244
-2004-0392-MLI,2004,Insect infestation,Mali,MLI,Western Africa,Africa,North,,,,,,,73.88141244
 2004-0659-MMR,2004,Earthquake,Myanmar,MMR,South-Eastern Asia,Asia,"Kawthoung, Pyapon, Pathein districts (Ayeyawaddy province), Kawthoung district (Taninthayi province), Sittwe district (Rakhine province)",Richter,3.295,95.982,,,71,73.88141244
-2004-0392-MRT,2004,Insect infestation,Mauritania,MRT,Western Africa,Africa,,,,,,,,73.88141244
 2004-0050-MYS,2004,Flood,Malaysia,MYS,South-Eastern Asia,Asia,"Kuching, Bau, Mukah, Sibu, Samarahan districts (Sarawak province), Johor Baru, Pontian, Kota Tinggi districts (Johor province)",Km2,,,,"Sungai Sarawak, Sungai Rajang",3,73.88141244
 2004-0119-MYS,2004,Flood,Malaysia,MYS,South-Eastern Asia,Asia,Johor province,Km2,,,,,,73.88141244
 2004-0635-MYS,2004,Flood,Malaysia,MYS,South-Eastern Asia,Asia,"Bera area (Temerluh district, Pahang province), Kuantan, Pekan districts (Pahang province), Kota Bharu, Gua Musang, Kuala Krai, Tanah Merah, Pasir Mas, Machang, Tumpat districts (Kelantan province), Dungun, Kemaman, Hulu Terengganu, Besut, Setiu districts (Terengganu province),",Km2,,,,"Kelantan, Lebir, Golok, Semerak, Tambatan Diraja, Dungun, Galas, Temala",13,73.88141244
@@ -9210,7 +9094,6 @@
 2004-0159-NAM,2004,Flood,Namibia,NAM,Southern Africa,Africa,"Kavango, Caprivi provinces",Km2,,,,,,73.88141244
 2004-0229-NER,2004,Epidemic,Niger (the),NER,Western Africa,Africa,Tillaberi region,Vaccinated,,,,,5,73.88141244
 2004-0161-NER,2004,Epidemic,Niger (the),NER,Western Africa,Africa,"Niamey, Tahoua, Tillaberi, Dosso",Vaccinated,,,,,149,73.88141244
-2004-0392-NER,2004,Insect infestation,Niger (the),NER,Western Africa,Africa,South and Center,,,,,,,73.88141244
 2004-0413-NGA,2004,Flood,Nigeria,NGA,Western Africa,Africa,Adamawa province,Km2,,,,Tributary of the Benue river,65,73.88141244
 2004-0434-NGA,2004,Flood,Nigeria,NGA,Western Africa,Africa,Gombe province,Km2,,,,,25,73.88141244
 2004-0268-NGA,2004,Flood,Nigeria,NGA,Western Africa,Africa,Lagos province,Km2,,,,,,73.88141244
@@ -9219,7 +9102,6 @@
 2004-0162-NGA,2004,Epidemic,Nigeria,NGA,Western Africa,Africa,Jigawa state,Vaccinated,,,,,46,73.88141244
 2004-0578-NGA,2004,Epidemic,Nigeria,NGA,Western Africa,Africa,"Kano, Jigawa states",Vaccinated,,,,,76,73.88141244
 2004-0617-NGA,2004,Epidemic,Nigeria,NGA,Western Africa,Africa,Edo state,Vaccinated,,,,,50,73.88141244
-2004-0392-NGA,2004,Insect infestation,Nigeria,NGA,Western Africa,Africa,"Sokoto, Zamfara, Kebbi",,,,,,,73.88141244
 2004-0280-NIC,2004,Landslide,Nicaragua,NIC,Central America,Americas,"Rio Blanco district (Matagalpa province), Puerto Cabezaz district (Atlantico Norte province) ; Atlantico Norte, Atlantico Sur provinces",,,,,Prinzapolka,29,73.88141244
 2004-0004-NIU,2004,Storm,Niue,NIU,Polynesia,Oceania,Alofi area (Niue province),Kph,,,,,1,73.88141244
 2004-0067-NZL,2004,Flood,New Zealand,NZL,Australia and New Zealand,Oceania,"Manawatu, Rangitikei, Tararua, Horowhenua, Ruapehu, Wanganui areas (Manawatu-Wanganui province), Wellington, Taranaki provinces",Km2,,,,"Makino Stream, Rangitikei, Oroua, Manawatu, Mangaweka, Waitotara, Ruamahanga",2,73.88141244
@@ -9253,9 +9135,7 @@
 2004-0180-SAU,2004,Flood,Saudi Arabia,SAU,Western Asia,Asia,Jizan province,Km2,,,,,5,73.88141244
 2004-0329-SDN,2004,Epidemic,Sudan (the),SDN,Northern Africa,Africa,"North Darfur, Abu Shoak camp",Vaccinated,,,,,11,73.88141244
 2004-0410-SDN,2004,Epidemic,Sudan (the),SDN,Northern Africa,Africa,West Darfur,Vaccinated,,,,,87,73.88141244
-2004-0392-SDN,2004,Insect infestation,Sudan (the),SDN,Northern Africa,Africa,Darfur region,,,,,,,73.88141244
 2004-0546-SEN,2004,Epidemic,Senegal,SEN,Western Africa,Africa,"Pikine, Guédiawaye, Thiaroye, Colobane (Dakar), Bambey (Diourbel region), Darou Mousty (Louga region)",Vaccinated,,,,,6,73.88141244
-2004-0392-SEN,2004,Insect infestation,Senegal,SEN,Western Africa,Africa,"Matam, Bakel departments (North)",,,,,,,73.88141244
 2004-0233-SEN,2004,Storm,Senegal,SEN,Western Africa,Africa,"Médina Gounass area (Velingara district, Kolda province)",Kph,,,,,2,73.88141244
 2004-0447-SLE,2004,Flood,Sierra Leone,SLE,Western Africa,Africa,Northern province,Km2,,,,Rokel,10,73.88141244
 2004-0437-SLE,2004,Epidemic,Sierra Leone,SLE,Western Africa,Africa,"Freetown, Western area, Port Loko, Kambia districts",Vaccinated,,,,,56,73.88141244
@@ -9267,7 +9147,6 @@
 2004-0455-TCA,2004,Storm,Turks and Caicos Islands (the),TCA,Caribbean,Americas,"Grand Turk, Providenciales and West Caicos provinces",Kph,,,,,,73.88141244
 2004-0395-TCD,2004,Epidemic,Chad,TCD,Middle Africa,Africa,"N'djamena, Chari, Baguirmi, Kanem, Lac, Mongo",Vaccinated,,,,,123,73.88141244
 2004-0411-TCD,2004,Epidemic,Chad,TCD,Middle Africa,Africa,"Goz. Amer, Djabal (Goz. Beida district)",Vaccinated,,,,,21,73.88141244
-2004-0392-TCD,2004,Insect infestation,Chad,TCD,Middle Africa,Africa,,,,,,,,73.88141244
 2004-0501-THA,2004,Flood,Thailand,THA,South-Eastern Asia,Asia,"Chiang Rai, Chiang Mai, Ubon Ratchathani provinces",Km2,,,,,2,73.88141244
 2004-0441-THA,2004,Flood,Thailand,THA,South-Eastern Asia,Asia,"Na Di, Prachantakham districts (Phachinburi province), Kap Choeng, Prasat, Chom Phra, Tha Tum, Muang Surin districts (Surin province), Satuk district (Buriram province), Muang Ubon Ratchathani district (Ubon Ratchathani province), Phaya Mengrai, Wiang Chai districts (Chiang Rai province), Rasi Salai district (Si Saket province), Yasothon, Roi Et, Nakhon Nayok, Kalasin provinces",Km2,,,,"Chao Phya, Chi, Mool, Noi, Nakhon Nayok, Mun",9,73.88141244
 2004-0635-THA,2004,Flood,Thailand,THA,South-Eastern Asia,Asia,"Su Kirin district (Narathiwat province), Muang Nakhon Si Thammarat, Hua Sai, Pak Phanang, Ron Phibun districts (Nakhon Si Thammarat province), Muang Phatthalung, Kong Ra districts (Phatthalung province), Than To district (Yala province)",Km2,,,,Sungai Kolok and Saiburi rivers,2,73.88141244
@@ -9753,7 +9632,6 @@
 2006-0464-CHN,2006,Earthquake,China,CHN,Eastern Asia,Asia,"Xinsi village (Tongwei Xian area, Dingxi district, Gansu Sheng province), Linjian village (Lintan Xian area, Gannan Tibetan district, Gansu Sheng province), Liping village (Hui Xian area, Longnan district, Gansu Sheng province)",Richter,33.068,104.95,,,,78.85225551
 2006-0586-CHN,2006,Earthquake,China,CHN,Eastern Asia,Asia,Hubei Sheng province,Richter,31.56,113.21,,,,78.85225551
 2006-0620-CHN,2006,Earthquake,China,CHN,Eastern Asia,Asia,Chifeng district (Nei Mongol Zizhiqu province),Richter,43.469,119.558,,,,78.85225551
-2006-0304-CHN,2006,Mass movement (dry),China,CHN,Eastern Asia,Asia,"Shiji village (Kangding area, Garze Tibetan district, Sichuan Sheng province)",,,,,,11,78.85225551
 2006-0392-CHN,2006,Flood,China,CHN,Eastern Asia,Asia,"Lengquanzhen village (Mengzi Xian area, Honghe Hani and Yi district, Yunnan Sheng province)",Km2,24.66,102.18,,,35,78.85225551
 2006-0481-CHN,2006,Flood,China,CHN,Eastern Asia,Asia,"Luqu Xian, Zhuoni Xian areas (Gannan Tibetan district, Gansu Sheng province)",Km2,34.7,102.68,,,15,78.85225551
 2006-0250-CHN,2006,Flood,China,CHN,Eastern Asia,Asia,Guizhou Sheng province,Km2,26.92,106.58,,,22,78.85225551
@@ -10231,7 +10109,6 @@
 2006-0440-TZA,2006,Epidemic,"Tanzania, United Republic of",TZA,Eastern Africa,Africa,"Zanzibar municipality, Pemba and Unguja Islands",Vaccinated,,,,,50,78.85225551
 2006-0635-TZA,2006,Epidemic,"Tanzania, United Republic of",TZA,Eastern Africa,Africa,Dar es Salaam,Vaccinated,,,,,5,78.85225551
 2006-0717-TZA,2006,Epidemic,"Tanzania, United Republic of",TZA,Eastern Africa,Africa,Micheweni district (Pemba Isl.),Vaccinated,,,,,,78.85225551
-2006-0722-TZA,2006,Insect infestation,"Tanzania, United Republic of",TZA,Eastern Africa,Africa,"Iringa, Dodoma, Singida, Manyara, Morogoro, Lindi (Central and Southern Tanzania",,,,,,,78.85225551
 2006-0462-UGA,2006,Flood,Uganda,UGA,Eastern Africa,Africa,"Bumufuni village (Bunambutye area, Budadiri district, Sironko province), Kapkwot village (Ngenge area, Tingey district, Kapchorwa province)",Km2,1.38,34.28,,"Ngenge, Atari",3,78.85225551
 2006-0624-UGA,2006,Flood,Uganda,UGA,Eastern Africa,Africa,"Kumi, Kayunga, Mukono, Kabale, Kisoro, Butaleja, Kaliro, Kampala provinces",Km2,0.78,39.72,,,,78.85225551
 2006-0679-UGA,2006,Epidemic,Uganda,UGA,Eastern Africa,Africa,"Northern, Western regions and Kawempe, Makindye, Rubaga, Central, Nakawa, Wasiko (Kampala)",Vaccinated,,,,,43,78.85225551
@@ -10773,7 +10650,6 @@
 2008-0076-CIV,2008,Epidemic,Côte d’Ivoire,CIV,Western Africa,Africa,Border with Burkina Faso,Vaccinated,,,,,44,84.21522909
 2008-0300-COG,2008,Epidemic,Congo (the),COG,Middle Africa,Africa,"Moundi village (Loudima, Bouenza division)",Vaccinated,,,,,1,84.21522909
 2008-0301-COG,2008,Epidemic,Congo (the),COG,Middle Africa,Africa,"Louetete, Loudima districts",Vaccinated,,,,,25,84.21522909
-2008-0538-COL,2008,Mass movement (dry),Colombia,COL,South America,Americas,Medellin district (Antioquia province),,,,,,12,84.21522909
 2008-0027-COL,2008,Volcanic activity,Colombia,COL,South America,Americas,"Genoy town (Pasto distrit, Nariño Province), Sandona, Yacuanquer, Consaca districts (Nariño Province)",,,,20:06,,,84.21522909
 2008-0164-COL,2008,Volcanic activity,Colombia,COL,South America,Americas,"Miranda, Toribio, Paez, Inza districts (Cauca province), Iquira, Santa Maria, Palermo, Teruel, La Plata, Paicol, Tesalia, Nataga districts (Huila province), Rioblanco, Planadas districts (Tolima province)",,,,,,,84.21522909
 2008-0559-COL,2008,Flood,Colombia,COL,South America,Americas,"Magdalena, Antioquia, Bolivar, Choco, Sucre, Cordoba, Huila, Tolima, Valle del Cauca, Caqueta, Putumayo, San Andres and Providencia, Atlantico, Santander, Cauca, Cundinamarca, Boyaca, Arauca, Norte de Santander, Cesar, La Guajira, Caldas, Risaralda, Narino, Meta, Casanare provinces",Km2,9,-74.23,,Magdalena river,76,84.21522909
@@ -10783,7 +10659,6 @@
 2008-0352-CYM,2008,Storm,Cayman Islands (the),CYM,Caribbean,Americas,"Grand Cayman, Little Cayman, Cayman Brac provinces",Kph,,,,,,84.21522909
 2008-0082-CZE,2008,Storm,Czech Republic (the),CZE,Eastern Europe,Europe,"Jihocesky, Jihomoravsky, Praha, Severocesky, Severomoravsky, Stredocesky (Libeznice city, Praha-vychod district), Vychodocesky, Zapadocesky provinces",Kph,,,,,2,84.21522909
 2008-0633-DEU,2008,Extreme temperature,Germany,DEU,Western Europe,Europe,"Berlin, Brandenburg, Bremen, Hessen, Niedersachsen, Nordrhein-Westfalen, Rheinland-Pfalz, Sachsen, Sachsen-Anhalt, Thueringen provinces",°C,,,,,1,84.21522909
-2008-0394-EGY,2008,Mass movement (dry),Egypt,EGY,Northern Africa,Africa,Minshat Nasir district (Cairo province),,,,,,98,84.21522909
 2008-9200-ERI,2008,Drought,Eritrea,ERI,Eastern Africa,Africa,"Achipelagos, Semenawi Keih Bahri provinces (Northern Red Sea Region), Debubawi Keih Bahri province (Southern Red Sea Region), Anseba, Debub provinces",Km2,,,,,,84.21522909
 2008-0386-ETH,2008,Flood,Ethiopia,ETH,Eastern Africa,Africa,Gambela province,Km2,7.585,33.31,,,5,84.21522909
 2008-0219-ETH,2008,Flood,Ethiopia,ETH,Eastern Africa,Africa,"Jijiga town (Fafan district, Somali province)",Km2,,,,,29,84.21522909
@@ -10937,7 +10812,6 @@
 2009-0014-ESP,2009,Storm,Spain,ESP,Southern Europe,Europe,"Galicia, Cataluña/Catalunya, País Vasco/Euskadi province",Kph,,,,,14,83.91580741
 2009-0029-FRA,2009,Extreme temperature,France,FRA,Western Europe,Europe,"Lyon city (Rhone district, Rhone-Alpes province)",°C,,,,,3,83.91580741
 2009-0252-GMB,2009,Storm,Gambia (the),GMB,Western Africa,Africa,"Banjul district (Kanifing Municipal Council province), Central River, Lower River, Upper River provinces",Kph,,,,,,83.91580741
-2009-0003-GTM,2009,Mass movement (dry),Guatemala,GTM,Central America,Americas,"Aquil Grande, Aquil Pequeno, Independencia, Zacaton (San Cristobal Verapaz district, Alta Verapraz province)",,,,,,36,83.91580741
 2009-0234-GTM,2009,Flood,Guatemala,GTM,Central America,Americas,Escuintla district (Escuintla province),Km2,13.42,-88.64,,,,83.91580741
 2009-0198-HTI,2009,Flood,Haiti,HTI,Caribbean,Americas,"Caracol village (Trou Du Nord district, Nord Est province), Camp Perrin, Cayes, Maniche villages (Cayes district, Sud province), Chardonnieres district (Sud province), Saint-Michel-de-l'Attalaye village (Marmelade district, Artibonite province), Ennery village (Gonaives district, Artibonite province), Dessalines, Saint-Marc districts (Artibonite province), Anse à Veau, Lazile, Plaisance villages (Anse-A-Veau district, Nippes province), Baraderes district (Nippes province), Cerca Carvajal village (Hinche district, Centre province), Ceca La Source district (Centre province), Leogane district (Ouest province), Grande Anse province",Km2,19.56,-72.33,,,11,83.91580741
 2009-0001-IDN,2009,Earthquake,Indonesia,IDN,South-Eastern Asia,Asia,"Manokwari , Sorong districts (Papua Barat province)",Richter,-0.414,132.885,4:43,,5,83.91580741
@@ -10947,7 +10821,6 @@
 2009-0175-IND,2009,Extreme temperature,India,IND,Southern Asia,Asia,"Orissa, West Bengal, Bihar, Uttar Pradesh, Jharkhand, Andhra Pradesh provinces",°C,,,,,120,83.91580741
 2009-0202-KEN,2009,Epidemic,Kenya,KEN,Eastern Africa,Africa,"Busia, Bungoma, Siaya, Tinderet, Naivasha, Roongo, Kisumu West ,Kajiado, Moyale, Laisamis, Wajir North, Isiolo, Garissa districts",Vaccinated,,,,,201,83.91580741
 2009-0243-LBR,2009,Flood,Liberia,LBR,Western Africa,Africa,"Greater Monrovia district (Montserrado province), Grand Cape Mount, Grand Gedeh provinces",Km2,,,,,2,83.91580741
-2009-0057-LBR,2009,Insect infestation,Liberia,LBR,Western Africa,Africa,"Zota district (Bong County), Suakoko, Sanoyea, Salala districts",,,,,,,83.91580741
 2009-0250-LKA,2009,Epidemic,Sri Lanka,LKA,Southern Asia,Asia,"Kandy, Colombo, Gampaha, Kalutara, Keaglle, Kurunegala, Rathnapura, Hambantota, Batticoloa, Matara, Anuradhapura, Matale, districts",Vaccinated,,,,,346,83.91580741
 2009-0137-MDG,2009,Storm,Madagascar,MDG,Eastern Africa,Africa,"Soanierana Ivongo, Maroantsetra, Mananara-Avaratra, Sainte Marie districts (Analanjirofo province), Nosy Varika, Mananjary, Vohipeno, Manakara districts (Vatovavy Fitovinany province), Port Berge (Boriziny-Vaovao), Mampikony districts (Sofia province), Amparafaravola, Moramanga districts (Alaotra Mangoro province), Vatomandry district (Atsinanana province), Vangaindrano district (Atsimo Atsinanana province), Antalaha district (Sava province)",Kph,,,,,15,83.91580741
 2009-0087-MLI,2009,Epidemic,Mali,MLI,Western Africa,Africa,,Vaccinated,,,,,10,83.91580741
@@ -11114,7 +10987,6 @@
 2008-0499-YEM,2008,Flood,Yemen,YEM,Western Asia,Asia,"Tarim, Sah, Shibam, Al Qatn, Wadi Al Ayn districts (Hadramaut province), Al Maharah, Taizz, Lahj, Al Mahwit provinces",Km2,15.54,49.78,,,90,84.21522909
 2008-0575-PNG,2008,Flood,Papua New Guinea,PNG,Melanesia,Oceania,"East Sepik, Madang, Manus, Milne Bay, Morobe, New Ireland, Northern Solomons, West Sepik provinces",Km2,,,,,,84.21522909
 2008-0583-PNG,2008,Flood,Papua New Guinea,PNG,Melanesia,Oceania,Northern Solomons province,Km2,,,,,,84.21522909
-2008-0625-PNG,2008,Mass movement (dry),Papua New Guinea,PNG,Melanesia,Oceania,"Kainantu gold mine site (Kainantu district, Eastern Highlands province)",,,,,,10,84.21522909
 2008-0082-POL,2008,Storm,Poland,POL,Eastern Europe,Europe,"Dolnoslaskie, Kujawsko-Pomorskie, Lodzkie, Lubeiskie, Lubuskie, Malopolske, Mazowieckie, Opolskie, Podkarpackie, Podlaskie, Pomorskie, Slaskie, Swietokrzyskie, Warminsko-Mazurskie, Wielkopolskie, Zachodnio-Pomorskie provinces",Kph,,,,,2,84.21522909
 2008-0633-POL,2008,Extreme temperature,Poland,POL,Eastern Europe,Europe,"Dolnoslaskie, Kujawsko-Pomorskie, Lodzkie, Lubeiskie, Lubuskie, Malopolske, Mazowieckie, Opolskie, Podkarpackie, Podlaskie, Pomorskie, Slaskie, Swietokrzyskie, Warminsko-Mazurskie, Wielkopolskie, Zachodnio-Pomorskie provinces",°C,,,,,82,84.21522909
 2008-0633-PRT,2008,Extreme temperature,Portugal,PRT,Southern Europe,Europe,"Porto, Viseu, Braga, Vila Real, Aveiro, Guarda provinces",°C,,,,,,84.21522909
@@ -11802,7 +11674,6 @@
 2010-0615-LTU,2010,Extreme temperature,Lithuania,LTU,Northern Europe,Europe,"Alytaus, Kauno, Klaipedos, Marijampoles, Panevezio, Siauliu, Taurages, Telsiu, Utenos, Vilniaus provinces",°C,,,,,5,85.2920606
 2010-0088-LUX,2010,Storm,Luxembourg,LUX,Western Europe,Europe,"Diekirch, Grevenmacher, Luxembourg province",Kph,,,,,,85.2920606
 2010-0278-MDA,2010,Flood,Moldova (the Republic of),MDA,Eastern Europe,Europe,"Nemteni, Cotul Marii, Obileni, Saretani municipalities (Hincesti district, Lapusna province), Sirauti, Drepcauti, Criva municipalities (Briceni district, Edinet province), Grozesti municipality (Nisporeni district), Macaresti municipality (Ungheni district) (Ungheni province), Brinza municipality (Vulcanesti district, Cahul province), Criuleni municipality (Dubasari district, Dubasari province)",Km2,46.82,27.97,,"Prut, Nistru rivers",1,85.2920606
-2010-0704-MDG,2010,Insect infestation,Madagascar,MDG,Eastern Africa,Africa,Southern,,,,,,,85.2920606
 2010-0158-MEX,2010,Earthquake,Mexico,MEX,Central America,Americas,Mexicali district (Baja California province),Richter,32.2861667,-115.2953333,,,2,85.2920606
 2010-0496-MEX,2010,Landslide,Mexico,MEX,Central America,Americas,Villa Guerrero district (Mexico province),,,,,,27,85.2920606
 2010-0510-MEX,2010,Landslide,Mexico,MEX,Central America,Americas,"Santa Maria Tlahuitoltepec municipality (Mixe district, Oaxaca province) ; Oaxaca, Chiapas provinces",,,,,,44,85.2920606
@@ -12343,7 +12214,6 @@
 2012-0575-IDN,2012,Flood,Indonesia,IDN,South-Eastern Asia,Asia,Kota Ternate district (Maluku Utara province),Km2,,,,,5,89.80529293
 2012-0249-IDN,2012,Landslide,Indonesia,IDN,South-Eastern Asia,Asia,"Kel Karang Panjang, Kel Kudamati villages (Kota Ambon district, Malaku province)",,,,,,20,89.80529293
 2012-0250-IDN,2012,Landslide,Indonesia,IDN,South-Eastern Asia,Asia,"Pangradin village (Jasinga sub-district, Bogor district, West Java province)",,,,,,12,89.80529293
-2012-0049-IND,2012,Mass movement (dry),India,IND,Southern Asia,Asia,Adminitrative unit not available districts (Jammu and Kashmir province),,,,,,16,89.80529293
 2012-0322-IND,2012,Flood,India,IND,Southern Asia,Asia,"Jaipur, Dhaulpur, Dausa, Tonk, Jhunjhunun, Sikar, Hanumangarh, Bikaner districts (Rajasthan province), Anjaw (70044), 70045, 70050, Lower Dibang Valley, Upper Siang (70051) districts (Arunachal Pradesh province)",Km2,,,,,37,89.80529293
 2012-0015-IND,2012,Extreme temperature,India,IND,Southern Asia,Asia,"Karimnagar, Vishakhapatnam, Guntur districts (Andhra Pradesh province)",°C,,,,,15,89.80529293
 2012-0538-IND,2012,Extreme temperature,India,IND,Southern Asia,Asia,"Bihar, Haryana, Himachal Pradesh, Jammu and Kashmir, Punjab, Rajasthan, Uttar Pradesh provinces",°C,,,,,249,89.80529293
@@ -12461,7 +12331,6 @@
 2013-0555-CHN,2013,Earthquake,China,CHN,Eastern Asia,Asia,"Badong area (Enshi Tujia and Miao district, Hubei Sheng province), Zigui, Xingshan areas (Yichang district, Hubei Sheng province)",Richter,31.066,110.412,1.04,,,91.12079403
 2013-0563-CHN,2013,Earthquake,China,CHN,Eastern Asia,Asia,Dali Bai district (Yunnan Sheng province),Richter,25.953,99.782,9:45,,,91.12079403
 2013-0581-CHN,2013,Earthquake,China,CHN,Eastern Asia,Asia,"Keping Xian area (Aksu district, Xinjiang Uygur Zizhiqu province)",Richter,40.253,78.944,,,,91.12079403
-2013-0018-CHN,2013,Mass movement (dry),China,CHN,Eastern Asia,Asia,"Zhaojiagou village (Zhaotong district, Yunnan Sheng province)",,,,,,46,91.12079403
 2013-0199-CHN,2013,Flood,China,CHN,Eastern Asia,Asia,"Guangxi Zhuangzu Zizhiqu, Hunan Sheng, Guizhou Sheng provinces",Km2,,,,,20,91.12079403
 2013-0201-CHN,2013,Flood,China,CHN,Eastern Asia,Asia,Guangdong Sheng province,Km2,,,,,12,91.12079403
 2013-0259-CHN,2013,Flood,China,CHN,Eastern Asia,Asia,"Dujiangyan Shi area (Chengdu district, Sichuan Sheng province), Wenchuan Xian area (Ngawa Tibetan and Qiang district, Sichuan Sheng province), Beichuan Xian area (Mianyang district, Sichuan Sheng province)",Km2,30.4563,104.02,,,233,91.12079403
@@ -13543,7 +13412,6 @@
 2015-0206-NZL,2015,Flood,New Zealand,NZL,Australia and New Zealand,Oceania,Wellington province,Km2,-41.092,175.35,,,1,92.70882199
 2015-0476-PAK,2015,Earthquake,Pakistan,PAK,Southern Asia,Asia,"Islamabad District district (Islamabad province), Chakwal District, Gujranwala District, Jhang District, Jhelum District, Kasur District, Mianwali District, Multan District, Muzaffargarh District, Narowal District, Rawalpindi District, Sahiwal District, Sargodha District, Sheikhupura District districts (Punjab province), Azad area (Jammu and Kashmir province), North-West Frontier province",Richter,36.5244,70.3676,14:09,,280,92.70882199
 2015-0571-PAK,2015,Earthquake,Pakistan,PAK,Southern Asia,Asia,Khyber Agency district (Federally Administrered Tribal Areas province),Richter,36.4935,71.1263,,,3,92.70882199
-2015-0454-PAK,2015,Mass movement (dry),Pakistan,PAK,Southern Asia,Asia,"Gulistane Jauhar area (Karachi East District district, Sindh province)",,,,,,13,92.70882199
 2015-0215-PAK,2015,Flood,Pakistan,PAK,Southern Asia,Asia,Khuzdar district (Balochistan province),Km2,,,,,20,92.70882199
 2015-0124-PAK,2015,Flood,Pakistan,PAK,Southern Asia,Asia,"Federally Administered Tribal Areas, North-West Frontier, Punjab provinces",Km2,,,,,32,92.70882199
 2015-0333-PAK,2015,Flood,Pakistan,PAK,Southern Asia,Asia,"Rawalpindi District (Punjab province), Islamabad District (Islamabad province), Jammu and Kashmir provinces",Km2,,,,,18,92.70882199
@@ -14150,7 +14018,6 @@
 2017-0384-CAF,2017,Flood,Central African Republic,CAF,Middle Africa,Africa,Kouango city,Km2,7.223,17.145,,,,95.87816577
 2017-0126-CAN,2017,Flood,Canada,CAN,Northern America,Americas,"Ottawa (Cumberland, Constance Bay,Fitzroy Harbour, Dunrobin, Britannia, West Carleton-March, MacLarens Landing), Champlain Township (Prescott and Russell), Lanark (Ontario); Montreal, Gatineau, Laval (Quebec); Thompson Nicola (Cache Creek, Lower Nicola Indian Band) Columbia Shushwap (Tappen), Central Okanagan (Kelowna, West Kelowna, Lake country, Fintry Delta),North Okanogan (Lumby), Okanagan Similkameen (Garnett Valley,Summerland), Kootenay Boundary (Grand Forks) (British Colombia); Canadian Maritimes; York, Sunburry (Fredericton, Maugerville), Queens (Jemseg) (New Brunswick) ; Cape Breton Island (Nova Scotia)",Km2,45.575,-74.406,,"Saint-Laurent river, Ottawa Rivers, Rideau, Gatineau Rivers",2,95.87816577
 2017-0471-CAN,2017,Flood,Canada,CAN,Northern America,Americas,"Windsor, Tecumseh, Essex (Ontario)",Km2,,,,,,95.87816577
-2017-0350-CHE,2017,Mass movement (dry),Switzerland,CHE,Western Europe,Europe,"Bregaglia Valley, Bondo in Graubünden canton",,,,,,8,95.87816577
 2017-0218-CHL,2017,Flood,Chile,CHL,South America,Americas,"Atacama (Chañaral, Diego de Almagro, Freirina-Huasco), Coquimbo (Monte Patria Ovalle- Limari,Andacollo-Elqui)",Km2,-27.122,-69.952,,Limari,2,95.87816577
 2017-0143-CHN,2017,Storm,China,CHN,Eastern Asia,Asia,"Chongqing, Henan, Hubei, Shaanxi, Sichuan provinces",Kph,,,,,,95.87816577
 2017-0214-CHN,2017,Storm,China,CHN,Eastern Asia,Asia,"Hubei, Hunan, Chongqing, Sichuan, Guizhou, Yunnan, Guangxi",Kph,,,,,9,95.87816577
@@ -14768,7 +14635,6 @@
 2018-0406-MEX,2018,Storm,Mexico,MEX,Central America,Americas,"Sinaloa, Nayarit, Jalisco, Durango, Zacatec",Kph,,,,,6,98.21999062
 2018-0469-MHL,2018,Storm,Marshall Islands (the),MHL,Micronesia,Oceania,,Kph,,,,,,98.21999062
 2018-0441-MLI,2018,Flood,Mali,MLI,Western Africa,Africa,"Kayes city, Goumera village, Kita city (Kayes); Kolokani town, Kénèkoun, Toubakoro, Sandia (Koulikoro), Sikasso town, Biramabougou, Koutiala, Koury, Sona, Zegoua (Sikasso), Timbuktu, Diré, Niafunké (Timbuktu), Gao, Bourem, Ansongo (Gao), Aguelhok, Tessalit, Intachdayte, Essouk (Kidal)",Km2,,,,,,98.21999062
-2018-0154-MMR,2018,Mass movement (dry),Myanmar,MMR,South-Eastern Asia,Asia,Hpakant (Kachine state),,,,,,17,98.21999062
 2018-0240-MMR,2018,Landslide,Myanmar,MMR,South-Eastern Asia,Asia,Lone Khin (Kachin state),,,,,,15,98.21999062
 2018-0255-MMR,2018,Flood,Myanmar,MMR,South-Eastern Asia,Asia,"Bago, Karen, Mon, Nay Pyi Taw, Tanintharyi, Magway, Sagaing, Ayeyarwady, Kayin",Km2,18.191,95.434,,"Chindwin, Ngawun, Sittoung, Bago",16,98.21999062
 2018-0443-MNG,2018,Storm,Mongolia,MNG,Eastern Asia,Asia,"Naranbulag, Zavkhan, Ulgii, Umnugovi, Sagil, Tarialan, Ulaangom, Khovd (Zavkhan), Ulgii, Altantsugts (Bayan-Ulgii), Darvi, Tsetseg, Munkhkhairkhan, Must, Jargalant, Chandmani, Zereg, Erdeneburen (Khovd), Bugat, Tonkhil, Tugrug, Khukhmorit (Govi-Altai); Uvs",Kph,,,,,,98.21999062
@@ -15274,11 +15140,6 @@
 2019-0557-KEN,2019,Landslide,Kenya,KEN,Eastern Africa,Africa,"Tapach, Parua (West Pokot county)",,,,,,97,100
 2019-0519-MEX,2019,Storm,Mexico,MEX,Central America,Americas,"Coahuila, Nuevo León, Tamaulipas, San Luis Potosí states",Kph,,,,,1,100
 2019-9619-BWA,2019,Drought,Botswana,BWA,Southern Africa,Africa,Botswana’s Okavango Delta,Km2,,,,,,100
-2019-0630-ETH,2019,Insect infestation,Ethiopia,ETH,Eastern Africa,Africa,"Afar, Amhara, Oromia, Somali,Tigrayan regional states",,,,,,,100
-2019-0630-KEN,2019,Insect infestation,Kenya,KEN,Eastern Africa,Africa,,,,,,,,100
-2019-0630-SDN,2019,Insect infestation,Sudan (the),SDN,Northern Africa,Africa,,,,,,,,100
-2019-0630-SOM,2019,Insect infestation,Somalia,SOM,Eastern Africa,Africa,Northern and central Somalia,,,,,,,100
-2019-0630-UGA,2019,Insect infestation,Uganda,UGA,Eastern Africa,Africa,,,,,,,,100
 2019-9088-ZWE,2019,Drought,Zimbabwe,ZWE,Eastern Africa,Africa,,Km2,,,,,,100
 2019-0007-USA,2019,Storm,United States of America (the),USA,Northern America,Americas,"Missouri, Illinois, Iowa, Kansas, Nebraska, Washington DC, Virginia, Colorado, North, South Carolina",Kph,,,,,13,100
 2019-0479-TUR,2019,Earthquake,Turkey,TUR,Western Asia,Asia,Istanbul,Richter,40.89,28.173,13:59,,1,100
@@ -15335,8 +15196,6 @@
 2019-0606-COL,2019,Flood,Colombia,COL,South America,Americas,Nariño Department,Km2,,,,Telembí River,,100
 2019-0653-COL,2019,Flood,Colombia,COL,South America,Americas,Chaparral municipality (Tolima Department),Km2,,,,,18,100
 2019-0601-COM,2019,Storm,Comoros (the),COM,Eastern Africa,Africa,,Kph,,,,,,100
-2019-0630-DJI,2019,Insect infestation,Djibouti,DJI,Eastern Africa,Africa,,,,,,,,100
-2019-0630-ERI,2019,Insect infestation,Eritrea,ERI,Eastern Africa,Africa,,,,,,,,100
 2019-0533-ESP,2019,Storm,Spain,ESP,Southern Europe,Europe,Mallorca (Balearic Islands),Kph,,,,,1,100
 2019-0626-ESP,2019,Storm,Spain,ESP,Southern Europe,Europe,Catalogne,Kph,,,,,7,100
 2019-0658-ETH,2019,Epidemic,Ethiopia,ETH,Eastern Africa,Africa,"Southern Nations, Nationalities, Peoples' Region (SNNPR), Oromiya (Guji zone), Somali (Shabelle zone) regions",Vaccinated,,,,,55,100
@@ -15377,7 +15236,6 @@
 2019-0528-TON,2019,Epidemic,Tonga,TON,Polynesia,Oceania,,Vaccinated,,,,,,100
 2019-0531-TON,2019,Epidemic,Tonga,TON,Polynesia,Oceania,,Vaccinated,,,,,,100
 2019-0562-TZA,2019,Flood,"Tanzania, United Republic of",TZA,Eastern Africa,Africa,Mwanza district,Km2,,,,,10,100
-2019-0630-TZA,2019,Insect infestation,"Tanzania, United Republic of",TZA,Eastern Africa,Africa,,,,,,,,100
 2019-0623-UGA,2019,Landslide,Uganda,UGA,Eastern Africa,Africa,Central and eastern regions,,,,,,7,100
 2019-0540-UGA,2019,Flood,Uganda,UGA,Eastern Africa,Africa,"Mukono, Bulambuli, Butaleja, Kasese, Iganga, Busia districts",Km2,,,,,3,100
 2019-0608-URY,2019,Flood,Uruguay,URY,South America,Americas,"Canelones, Florida, Durazno, San José and Treinta y Tres departments",Km2,-33.749,-55.922,,,,100
@@ -15621,7 +15479,6 @@
 2020-0073-IRN,2020,Earthquake,Iran (Islamic Republic of),IRN,Southern Asia,Asia,,Richter,38.543,44.447,10:23,,,
 2021-0095-IRN,2021,Earthquake,Iran (Islamic Republic of),IRN,Southern Asia,Asia,"Esfahan, Kohgiluyeh and Boyer-Ahmad provinces",Richter,,,22:05,,,
 2020-0574-IRN,2020,Landslide,Iran (Islamic Republic of),IRN,Southern Asia,Asia,Darabad mountains,,,,,,12,
-2020-0126-IRN,2020,Insect infestation,Iran (Islamic Republic of),IRN,Southern Asia,Asia,"Khouzestan, Boushehr, Fars,Hormozgan, South Kerman and Sistan, Balouchestan provinces.",,,,,,,
 2020-0017-IRN,2020,Flood,Iran (Islamic Republic of),IRN,Southern Asia,Asia,"Iranshahr, Chabahar, Khash, Delgan, Zahedan, Sarbaz, Saravan, Sib and Sooran, fonooj, Kenarak, Mehrestan, Zahak, Mirjaveh, Nikshar Hirmand districts (Sistan and Baluchistan); Hormozgan, Kerman",Km2,,,,,4,
 2020-0076-IRN,2020,Flood,Iran (Islamic Republic of),IRN,Southern Asia,Asia,"Nurabad, Memulan, Poldakhtar cities (Lorestan, Khuzestan provinces)",Km2,,,,Kashkan river,,
 2020-0118-IRN,2020,Flood,Iran (Islamic Republic of),IRN,Southern Asia,Asia,"Fars, Hormozgan, Qom, Sistan-Baloutchistan, Bouchher, Khouzestan",Km2,,,,,21,
@@ -15677,7 +15534,6 @@
 2020-0543-NZL,2020,Flood,New Zealand,NZL,Australia and New Zealand,Oceania,Napier (Hawke’s Bay region),Km2,,,,,,
 2020-0221-OMN,2020,Flood,Oman,OMN,Western Asia,Asia,Governorate of Dhofar,Km2,183.982,545.326,,,3,
 2020-0457-PAK,2020,Landslide,Pakistan,PAK,Southern Asia,Asia,"Tangus Village area, Gilgit-Baltistan Region",,,,,,16,
-2020-0130-PAK,2020,Insect infestation,Pakistan,PAK,Southern Asia,Asia,"Blochistan, Punjab, Sindh, Khyber Pakhtunkhwa Provinces",,,,,,,
 2020-0133-PAK,2020,Flood,Pakistan,PAK,Southern Asia,Asia,Khyber Pakhtunkhwa,Km2,,,,,24,
 2020-0249-PAK,2020,Flood,Pakistan,PAK,Southern Asia,Asia,"Bajaur, Buner districts (Khyber Pakhtunkhwa Province)",Km2,,,,,7,
 2020-0330-PAN,2020,Flood,Panama,PAN,Central America,Americas,"Calovébora Commune (Veraguas Province, western Panama); Colon Province (eastern Panama)",Km2,,,,rio Bejuco,11,
