@@ -1,77 +1,68 @@
 {
-    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "data": {
-      "url": "https://raw.githubusercontent.com/cccovo/3179_testrepo/main/EMDAT_1900-2021_NatDis.csv"
-    },
-    "vconcat": [
-      {
-        "width": 200,
-        "height":60,
-        "mark":"line",
-        "title":{
-          "text": "Natural Disasters per year | 1900-2020",
-          "fontSize":18
-        },
-        "params": [
-          {
-            "name": "time_brush",
-            "select": {"type": "interval", "encodings": ["x"]}
-          }
-        ],
-        "encoding": {
-          "x": {
-              "field": "Year",
-              "timeUnit": "year",
-              "axis": {"title": "", "grid": false}
-          },
-          "y": {"aggregate": "count", "title": "Count","axis": {"grid": false}}
-        }
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "data": {
+    "url": "https://raw.githubusercontent.com/cccovo/3179_testrepo/main/EMDAT_1900-2021_NatDis.csv"
+  },
+  "vconcat": [
+    {
+      "width":"container",
+      "height":60,
+      "mark":"line",
+      "title":{
+        "text": "Natural Disasters per year | 1900-2020",
+        "fontSize":18
       },
-      {
-        "width": 200,
-        "height": 300,
-        "mark": "area",
-        "encoding": {
-          "x": {
+      "params": [
+        {
+          "name": "time_brush",
+          "select": {"type": "interval", "encodings": ["x"]}
+        }
+      ],
+      "encoding": {
+        "x": {
             "field": "Year",
             "timeUnit": "year",
-            "scale": {"domain": {"param": "time_brush"}},
             "axis": {"title": "", "grid": false}
-          },
-          "y": {"aggregate": "count", "title": "frequency","axis": {"grid": false}},
-          "color": {
-            "field": "Disaster Type",
-            "type": "nominal",
-            "scale":{
-              "domain":[
-                  "Drought",
-                  "Earthquake",
-                  "Epidemic",
-                  "Extreme temperature",
-                  "Flood",
-                  "Landslide",
-                  "Storm",
-                  "Volcanic activity",
-                  "Wildfire"
-              ],
-              "range":[
-                  "#ddc3a5",
-                  "#201e20",
-                  "#e0a96d",
-                  "#a9c0a6",
-                  "#e0cdbe",
-                  "#097770",
-                  "#edca82",
-                  "#e1dd72",
-                  "#1b6535"
-              ]
-            }
-          },
-          "tooltip":[
-              {"field":"Disaster Type", "type": "nominal"}
-          ]
-        }
+        },
+        "y": {"aggregate": "count", "title": "Count","axis": {"grid": false}}
       }
-    ]
-  }
-
+    },
+    {
+      "width": "container",
+      "height": 300,
+      "mark": "area",
+      "encoding": {
+        "x": {
+          "field": "Year",
+          "timeUnit": "year",
+          "scale": {"domain": {"param": "time_brush"}},
+          "axis": {"title": "", "grid": false}
+        },
+        "y": {"aggregate": "count", "title": "Count","axis": {"grid": false}},
+        "color": {
+          "field": "Disaster Type",
+          "type": "nominal",
+          "scale":{
+            "domain":[
+                "Earthquake",
+                "Epidemic",
+                "Flood",
+                "Landslide",
+                "Storm"
+            ],
+            "range":[
+                "#6F95A8",
+                "#AEDCB9",
+                "#F1B19D",
+                "#F38388",
+                "#C5BEB1" 
+            ]
+          }
+        },
+        "tooltip":[
+            {"field":"Disaster Type", "type": "nominal"}
+        ]
+      }
+    }
+  ]
+}
