@@ -1,4 +1,10 @@
-﻿Area,1996-2001,1996-2006,1996-2011
-Dry land --> Open water,2.0631,3.5177,5.9265
-Non-tidal wetland --> Open water,0.1553,2.3744,3.3543
-Tidal wetland --> Open water,4.5973,12.2088,10.6968
+﻿year,area,loss
+1996-2001,Dry land --> Open water,2.0631
+1996-2001,Non-tidal wetland --> Open water,0.1553
+1996-2001,Tidal wetland --> Open water,4.5973
+1996-2006,Dry land --> Open water,3.5177
+1996-2006,Non-tidal wetland --> Open water,2.3744
+1996-2006,Tidal wetland --> Open water,12.2088
+1996-2011,Dry land --> Open water,5.9265
+1996-2011,Non-tidal wetland --> Open water,3.3543
+1996-2011,Tidal wetland --> Open water,10.6968
