@@ -5,12 +5,12 @@
   },
   "vconcat": [
     {
-      "width":"container",
+      "width":700,
       "height":60,
       "mark":"line",
       "title":{
-        "text": "Natural Disasters per year | 1900-2020",
-        "fontSize":18
+        "text": "Top 5 Natural Disasters per year | 1900-2020",
+        "fontSize":15
       },
       "params": [
         {
@@ -28,7 +28,7 @@
       }
     },
     {
-      "width": "container",
+      "width": 700,
       "height": 300,
       "mark": "area",
       "encoding": {

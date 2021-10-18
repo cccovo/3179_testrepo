@@ -1,0 +1,32 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "width": 250,
+    "height": 300,
+     "title": {"text": "Land Loss Along the Atlantic Coast | 1996–2011", "fontSize":14},
+    "data": { "url": "https://raw.githubusercontent.com/cccovo/3179_testrepo/main/land%20loss.csv" },
+    "mark": { "type": "bar" },
+    "encoding": {
+        "x": { "field": "year", "axis": {"title": "", "grid": false}},
+        "y": { "aggregate": "sum", "field": "loss","axis": {"title": "Submergence (square miles)", "grid": false}},
+        "color": { 
+            "field": "area",
+            "scale":{
+                "domain":[
+                    "Dry land",
+                    "Non-tidal wetland",
+                    "Tidal wetland"
+                ],
+                "range":[
+                    "#AEDCB9",
+                    "#6F95A8",
+                    "#939598"
+                ]
+            }
+        },
+        "tooltip":[
+          {"field":"year", "type": "nominal", "title":"Year"},
+          {"field":"loss", "type": "quantitative", "title":"Submergence (square miles)"},
+          {"field":"area", "type": "nominal", "title":"Area"}
+        ]
+    }
+}

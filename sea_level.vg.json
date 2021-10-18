@@ -3,11 +3,11 @@
     "data": {
       "url": "https://raw.githubusercontent.com/cccovo/3179_testrepo/main/sea%20level.csv"
     },
-    "width":500,
+    "width":350,
     "height":300,
     "title":{
         "text": "Changing Sea Level from 1880 to 2019 | inches",
-        "fontSize":18
+        "fontSize":14
     },
     "mark": "line",
     "encoding": {
